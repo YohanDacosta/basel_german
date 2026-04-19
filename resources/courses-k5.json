@@ -1,0 +1,580 @@
+[
+  {
+    "title": "Deutsch für Mütter und Väter von Schulkindern",
+    "link": "https://www.k5kurszentrum.ch/kurs/deutsch-fuer-muetter-und-vaeter/?t=20260119",
+    "description": "Deutsch für Mütter und Väter von Schulkindern",
+    "location": "Basel",
+    "dates": "19.01.2026 - 12.06.2026",
+    "level": "A1, B1",
+    "lessons": "40",
+    "price": "CHF 150.–",
+    "schedule": [
+      " je nach Schule"
+    ]
+  },
+  {
+    "title": "Deutsch am Abend",
+    "link": "https://www.k5kurszentrum.ch/kurs/deutsch-am-abend/?t=20260420",
+    "description": "Deutsch am Abend",
+    "location": "Basel",
+    "dates": "20.04.2026 - 15.06.2026",
+    "level": "A1, A2, B1, B2",
+    "lessons": "40",
+    "price": "CHF 90.– bis 590.–",
+    "schedule": [
+      "Montag 18:30 – 20:30 Uhr",
+      "Mittwoch 18:30 – 20:30 Uhr"
+    ]
+  },
+  {
+    "title": "Deutsch am Abend – mit Gutschein Basel-Stadt",
+    "link": "https://www.k5kurszentrum.ch/kurs/deutsch-am-abend-mit-gutschein-bs/?t=20260420",
+    "description": "Deutsch am Abend – mit Gutschein Basel-Stadt",
+    "location": "Basel",
+    "dates": "20.04.2026 - 30.09.2026",
+    "level": "A1, A2, B1, B2",
+    "lessons": "80",
+    "price": "CHF 120.– bis 1'170.–",
+    "schedule": [
+      "Montag 18:30 – 20:30 Uhr",
+      "Mittwoch 18:30 – 20:30 Uhr"
+    ]
+  },
+  {
+    "title": "Deutsch am Nachmittag",
+    "link": "https://www.k5kurszentrum.ch/kurs/deutsch-am-nachmittag/?t=20260421",
+    "description": "Deutsch am Nachmittag",
+    "location": "Basel",
+    "dates": "21.04.2026 - 18.06.2026",
+    "level": "A1, A2, B1, B2",
+    "lessons": "60",
+    "price": "CHF 90.– bis 710.–",
+    "schedule": [
+      "Montag 14:00 – 16:00 Uhr | Kursstart im August: 14:00 – 16:45 Uhr",
+      "Dienstag 14:00 – 16:00 Uhr | Kursstart im August: 14:00 – 16:45 Uhr",
+      "Donnerstag 14:00 – 16:00 Uhr | Kursstart im August: 14:00 – 16:45 Uhr"
+    ]
+  },
+  {
+    "title": "Deutsch sofort ⁺– einmalig buchbarer Kurs für Neuzugezogene",
+    "link": "https://www.k5kurszentrum.ch/kurs/deutsch-sofort-%e2%81%ba/?t=20260422",
+    "description": "Deutsch sofort ⁺– einmalig buchbarer Kurs für Neuzugezogene",
+    "location": "Basel",
+    "dates": "22.04.2026 - 10.06.2026",
+    "level": "A1, A2",
+    "lessons": "80",
+    "price": "CHF 130.- bis CHF 1'160.–",
+    "schedule": null
+  },
+  {
+    "title": "Deutsch sofort ⁺ – einmalig buchbarer Kurs für Neuzugezogene mit Gutschein Basel-Stadt",
+    "link": "https://www.k5kurszentrum.ch/kurs/deutsch-sofort-%e2%81%ba-mit-gutschein-bs/?t=20260422",
+    "description": "Deutsch sofort ⁺ – einmalig buchbarer Kurs für Neuzugezogene mit Gutschein Basel-Stadt",
+    "location": "Basel",
+    "dates": "22.04.2026 - 10.06.2026",
+    "level": "A1, A2",
+    "lessons": "80",
+    "price": "CHF 130.- bis CHF 1'160.–",
+    "schedule": null
+  },
+  {
+    "title": "Deutsch intensiv (am Nachmittag)",
+    "link": "https://www.k5kurszentrum.ch/kurs/deutsch-intensiv-am-nachmittag/?t=20260423",
+    "description": "Deutsch intensiv (am Nachmittag)",
+    "location": "Basel",
+    "dates": "23.04.2026 - 25.06.2026",
+    "level": "A1, A2, B1, B2",
+    "lessons": "99",
+    "price": "CHF 140.– bis CHF 1'240.–",
+    "schedule": [
+      "Montag 14:00 – 16:30 Uhr",
+      "Dienstag 14:00 – 16:30 Uhr",
+      "Donnerstag und Freitag 14:00 – 16:30 Uhr"
+    ]
+  },
+  {
+    "title": "Deutsch am Morgen",
+    "link": "https://www.k5kurszentrum.ch/kurs/deutsch-am-morgen/?t=20260427",
+    "description": "Deutsch am Morgen",
+    "location": "Basel",
+    "dates": "27.04.2026 - 25.06.2026",
+    "level": "A1, A2, B1, B2",
+    "lessons": "80",
+    "price": "CHF 110.– bis 980.–",
+    "schedule": [
+      "Morgen"
+    ]
+  },
+  {
+    "title": "Deutsch am Morgen – mit Gutschein Basel-Stadt",
+    "link": "https://www.k5kurszentrum.ch/kurs/deutsch-am-morgen-mit-gutschein-bs/?t=20260427",
+    "description": "Deutsch am Morgen – mit Gutschein Basel-Stadt",
+    "location": "Basel",
+    "dates": "27.04.2026 - 25.06.2026",
+    "level": "A1, A2, B1, B2",
+    "lessons": "80",
+    "price": "CHF 110.– bis 980.–",
+    "schedule": [
+      "Morgen"
+    ]
+  },
+  {
+    "title": "Basisbildung: Modul Lesen und Schreiben",
+    "link": "https://www.k5kurszentrum.ch/kurs/basisbildung-modul-lesen-und-schreiben/?t=20260520",
+    "description": "Basisbildung: Modul Lesen und Schreiben",
+    "location": "Basel",
+    "dates": "20.05.2026 - 22.07.2026",
+    "level": "A1.1, A1.2, A2.1, A2.2, B1.2, B2.1, B2.2",
+    "lessons": "30",
+    "price": "CHF 90.– bis CHF 440.–",
+    "schedule": [
+      "Mittwoch 13:00 – 15:30 Uhr"
+    ]
+  },
+  {
+    "title": "Deutsch kompakt",
+    "link": "https://www.k5kurszentrum.ch/kurs/deutsch-kompakt/?t=20260520",
+    "description": "Deutsch kompakt",
+    "location": "Basel",
+    "dates": "20.05.2026 - 29.07.2026",
+    "level": "A1, A2, B1, B2",
+    "lessons": "200",
+    "price": "CHF 310.– bis CHF 2'900.–",
+    "schedule": null
+  },
+  {
+    "title": "Basisbildung: Modul Deutsch und Stellensuche",
+    "link": "https://www.k5kurszentrum.ch/kurs/basisbildung-modul-deutsch-und-stellensuche/?t=20260521",
+    "description": "Basisbildung: Modul Deutsch und Stellensuche",
+    "location": "Basel",
+    "dates": "21.05.2026 - 23.07.2026",
+    "level": "A1, A2, B1, B2",
+    "lessons": "30",
+    "price": "CHF 90.– bis CHF 560.–",
+    "schedule": [
+      "Donnerstag 13:00 – 15:30 Uhr"
+    ]
+  },
+  {
+    "title": "Basisbildung: Modul Konversation",
+    "link": "https://www.k5kurszentrum.ch/kurs/basisbildung-modul-konversation/?t=20260526",
+    "description": "Basisbildung: Modul Konversation",
+    "location": "Basel",
+    "dates": "26.05.2026 - 28.07.2026",
+    "level": "A2.2, B1, B2",
+    "lessons": "30",
+    "price": "CHF 90.– bis CHF 440.–",
+    "schedule": [
+      "Dienstag 13:00 – 15:30 Uhr"
+    ]
+  },
+  {
+    "title": "Basisbildung: Modul Aussprache",
+    "link": "https://www.k5kurszentrum.ch/kurs/basisbildung-modul-aussprache/?t=20260526",
+    "description": "Basisbildung: Modul Aussprache",
+    "location": "Basel",
+    "dates": "26.05.2026 - 28.07.2026",
+    "level": "A1, A2, B1",
+    "lessons": "30",
+    "price": "CHF 90.– bis 440.–",
+    "schedule": [
+      "Dienstag 13:00 – 15:30 Uhr"
+    ]
+  },
+  {
+    "title": "Basisbildung: Modul Digitale Kompetenzen",
+    "link": "https://www.k5kurszentrum.ch/kurs/basisbildung-modul-digitale-kompetenzen/?t=20260601",
+    "description": "Basisbildung: Modul Digitale Kompetenzen",
+    "location": "Basel",
+    "dates": "01.06.2026 - 27.07.2026",
+    "level": "A1, A2, B1",
+    "lessons": "30",
+    "price": "CHF 90.– bis CHF 440.–",
+    "schedule": [
+      "Montag 13:00 – 15:45 Uhr | ab 17.8.26: 13:00 – 15:30 Uhr"
+    ]
+  },
+  {
+    "title": "Sommerkurs – Deutsch intensiv",
+    "link": "https://www.k5kurszentrum.ch/kurs/sommerkurs-deutsch-intensiv/?t=20260629",
+    "description": "Sommerkurs – Deutsch intensiv",
+    "location": "Basel",
+    "dates": "29.06.2026 - 23.07.2026",
+    "level": "A1, A2, B1, B2",
+    "lessons": "60",
+    "price": "CHF 90.– bis 770.–",
+    "schedule": null
+  },
+  {
+    "title": "Deutsch am Morgen",
+    "link": "https://www.k5kurszentrum.ch/kurs/deutsch-am-morgen/?t=20260810",
+    "description": "Deutsch am Morgen",
+    "location": "Basel",
+    "dates": "10.08.2026 - 02.10.2026",
+    "level": "A1, A2, B1, B2",
+    "lessons": "80",
+    "price": "CHF 110.– bis 980.–",
+    "schedule": [
+      "Morgen"
+    ]
+  },
+  {
+    "title": "Deutsch am Abend",
+    "link": "https://www.k5kurszentrum.ch/kurs/deutsch-am-abend/?t=20260810",
+    "description": "Deutsch am Abend",
+    "location": "Basel",
+    "dates": "10.08.2026 - 30.09.2026",
+    "level": "A1, A2, B1, B2",
+    "lessons": "40",
+    "price": "CHF 90.– bis 590.–",
+    "schedule": [
+      "Montag 18:30 – 20:30 Uhr",
+      "Mittwoch 18:30 – 20:30 Uhr"
+    ]
+  },
+  {
+    "title": "Deutsch am Abend – mit Gutschein Basel-Stadt",
+    "link": "https://www.k5kurszentrum.ch/kurs/deutsch-am-abend-mit-gutschein-bs/?t=20260810",
+    "description": "Deutsch am Abend – mit Gutschein Basel-Stadt",
+    "location": "Basel",
+    "dates": "10.08.2026 - 16.12.2026",
+    "level": "A1, A2, B1, B2",
+    "lessons": "80",
+    "price": "CHF 120.– bis 1'170.–",
+    "schedule": [
+      "Montag 18:30 – 20:30 Uhr",
+      "Mittwoch 18:30 – 20:30 Uhr"
+    ]
+  },
+  {
+    "title": "Deutsch am Morgen – mit Gutschein Basel-Stadt",
+    "link": "https://www.k5kurszentrum.ch/kurs/deutsch-am-morgen-mit-gutschein-bs/?t=20260810",
+    "description": "Deutsch am Morgen – mit Gutschein Basel-Stadt",
+    "location": "Basel",
+    "dates": "10.08.2026 - 02.10.2026",
+    "level": "A1, A2, B1, B2",
+    "lessons": "80",
+    "price": "CHF 110.– bis 980.–",
+    "schedule": [
+      "Morgen"
+    ]
+  },
+  {
+    "title": "Deutsch sofort ⁺– einmalig buchbarer Kurs für Neuzugezogene",
+    "link": "https://www.k5kurszentrum.ch/kurs/deutsch-sofort-%e2%81%ba/?t=20260811",
+    "description": "Deutsch sofort ⁺– einmalig buchbarer Kurs für Neuzugezogene",
+    "location": "Basel",
+    "dates": "11.08.2026 - 24.09.2026",
+    "level": "A1, A2",
+    "lessons": "80",
+    "price": "CHF 130.- bis CHF 1'160.–",
+    "schedule": null
+  },
+  {
+    "title": "Deutsch intensiv (am Nachmittag)",
+    "link": "https://www.k5kurszentrum.ch/kurs/deutsch-intensiv-am-nachmittag/?t=20260811",
+    "description": "Deutsch intensiv (am Nachmittag)",
+    "location": "Basel",
+    "dates": "11.08.2026 - 06.10.2026",
+    "level": "A1, A2, B1, B2",
+    "lessons": "99",
+    "price": "CHF 140.– bis CHF 1'240.–",
+    "schedule": [
+      "Montag 14:00 – 16:30 Uhr",
+      "Dienstag 14:00 – 16:30 Uhr",
+      "Donnerstag und Freitag 14:00 – 16:30 Uhr"
+    ]
+  },
+  {
+    "title": "Deutsch am Nachmittag",
+    "link": "https://www.k5kurszentrum.ch/kurs/deutsch-am-nachmittag/?t=20260811",
+    "description": "Deutsch am Nachmittag",
+    "location": "Basel",
+    "dates": "11.08.2026 - 24.09.2026",
+    "level": "A1, A2, B1, B2",
+    "lessons": "60",
+    "price": "CHF 90.– bis 710.–",
+    "schedule": [
+      "Montag 14:00 – 16:00 Uhr | Kursstart im August: 14:00 – 16:45 Uhr",
+      "Dienstag 14:00 – 16:00 Uhr | Kursstart im August: 14:00 – 16:45 Uhr",
+      "Donnerstag 14:00 – 16:00 Uhr | Kursstart im August: 14:00 – 16:45 Uhr"
+    ]
+  },
+  {
+    "title": "Deutsch sofort ⁺ – einmalig buchbarer Kurs für Neuzugezogene mit Gutschein Basel-Stadt",
+    "link": "https://www.k5kurszentrum.ch/kurs/deutsch-sofort-%e2%81%ba-mit-gutschein-bs/?t=20260811",
+    "description": "Deutsch sofort ⁺ – einmalig buchbarer Kurs für Neuzugezogene mit Gutschein Basel-Stadt",
+    "location": "Basel",
+    "dates": "11.08.2026 - 24.09.2026",
+    "level": "A1, A2",
+    "lessons": "80",
+    "price": "CHF 130.- bis CHF 1'160.–",
+    "schedule": null
+  },
+  {
+    "title": "Basisbildung: Modul Deutsch und Stellensuche",
+    "link": "https://www.k5kurszentrum.ch/kurs/basisbildung-modul-deutsch-und-stellensuche/?t=20260813",
+    "description": "Basisbildung: Modul Deutsch und Stellensuche",
+    "location": "Basel",
+    "dates": "13.08.2026 - 15.10.2026",
+    "level": "A1, A2, B1, B2",
+    "lessons": "30",
+    "price": "CHF 90.– bis CHF 560.–",
+    "schedule": [
+      "Donnerstag 13:00 – 15:30 Uhr"
+    ]
+  },
+  {
+    "title": "Deutsch kompakt",
+    "link": "https://www.k5kurszentrum.ch/kurs/deutsch-kompakt/?t=20260813",
+    "description": "Deutsch kompakt",
+    "location": "Basel",
+    "dates": "13.08.2026 - 21.10.2026",
+    "level": "A1, A2, B1, B2",
+    "lessons": "200",
+    "price": "CHF 310.– bis CHF 2'900.–",
+    "schedule": null
+  },
+  {
+    "title": "Basisbildung: Modul Digitale Kompetenzen",
+    "link": "https://www.k5kurszentrum.ch/kurs/basisbildung-modul-digitale-kompetenzen/?t=20260817",
+    "description": "Basisbildung: Modul Digitale Kompetenzen",
+    "location": "Basel",
+    "dates": "17.08.2026 - 19.10.2026",
+    "level": "A1, A2, B1",
+    "lessons": "30",
+    "price": "CHF 90.– bis CHF 440.–",
+    "schedule": [
+      "Montag 13:00 – 15:45 Uhr | ab 17.8.26: 13:00 – 15:30 Uhr"
+    ]
+  },
+  {
+    "title": "Basisbildung: Modul Konversation",
+    "link": "https://www.k5kurszentrum.ch/kurs/basisbildung-modul-konversation/?t=20260818",
+    "description": "Basisbildung: Modul Konversation",
+    "location": "Basel",
+    "dates": "18.08.2026 - 20.10.2026",
+    "level": "A2.2, B1, B2",
+    "lessons": "30",
+    "price": "CHF 90.– bis CHF 440.–",
+    "schedule": [
+      "Dienstag 13:00 – 15:30 Uhr"
+    ]
+  },
+  {
+    "title": "Basisbildung: Modul Aussprache",
+    "link": "https://www.k5kurszentrum.ch/kurs/basisbildung-modul-aussprache/?t=20260818",
+    "description": "Basisbildung: Modul Aussprache",
+    "location": "Basel",
+    "dates": "18.08.2026 - 20.10.2026",
+    "level": "A1, A2, B1",
+    "lessons": "30",
+    "price": "CHF 90.– bis 440.–",
+    "schedule": [
+      "Dienstag 13:00 – 15:30 Uhr"
+    ]
+  },
+  {
+    "title": "Basisbildung: Modul Lesen und Schreiben",
+    "link": "https://www.k5kurszentrum.ch/kurs/basisbildung-modul-lesen-und-schreiben/?t=20260819",
+    "description": "Basisbildung: Modul Lesen und Schreiben",
+    "location": "Basel",
+    "dates": "19.08.2026 - 21.10.2026",
+    "level": "A1.1, A1.2, A2.1, A2.2, B1.2, B2.1, B2.2",
+    "lessons": "30",
+    "price": "CHF 90.– bis CHF 440.–",
+    "schedule": [
+      "Mittwoch 13:00 – 15:30 Uhr"
+    ]
+  },
+  {
+    "title": "Deutsch für Frauen",
+    "link": "https://www.k5kurszentrum.ch/kurs/deutsch-fuer-frauen/?t=20260819",
+    "description": "Deutsch für Frauen",
+    "location": "Basel",
+    "dates": "19.08.2026 - 17.11.2026",
+    "level": "A1, A2, B1, B2",
+    "lessons": "165",
+    "price": "CHF 270.– bis 2’390.–",
+    "schedule": null
+  },
+  {
+    "title": "Deutsch intensiv (am Nachmittag)",
+    "link": "https://www.k5kurszentrum.ch/kurs/deutsch-intensiv-am-nachmittag/?t=20261022",
+    "description": "Deutsch intensiv (am Nachmittag)",
+    "location": "Basel",
+    "dates": "22.10.2026 - 17.12.2026",
+    "level": "A1, A2, B1, B2",
+    "lessons": "99",
+    "price": "CHF 140.– bis CHF 1'240.–",
+    "schedule": [
+      "Montag 14:00 – 16:30 Uhr",
+      "Dienstag 14:00 – 16:30 Uhr",
+      "Donnerstag und Freitag 14:00 – 16:30 Uhr"
+    ]
+  },
+  {
+    "title": "Deutsch am Nachmittag",
+    "link": "https://www.k5kurszentrum.ch/kurs/deutsch-am-nachmittag/?t=20261022",
+    "description": "Deutsch am Nachmittag",
+    "location": "Basel",
+    "dates": "22.10.2026 - 15.12.2026",
+    "level": "A1, A2, B1, B2",
+    "lessons": "60",
+    "price": "CHF 90.– bis 710.–",
+    "schedule": [
+      "Montag 14:00 – 16:00 Uhr | Kursstart im August: 14:00 – 16:45 Uhr",
+      "Dienstag 14:00 – 16:00 Uhr | Kursstart im August: 14:00 – 16:45 Uhr",
+      "Donnerstag 14:00 – 16:00 Uhr | Kursstart im August: 14:00 – 16:45 Uhr"
+    ]
+  },
+  {
+    "title": "Deutsch am Morgen",
+    "link": "https://www.k5kurszentrum.ch/kurs/deutsch-am-morgen/?t=20261026",
+    "description": "Deutsch am Morgen",
+    "location": "Basel",
+    "dates": "26.10.2026 - 18.12.2026",
+    "level": "A1, A2, B1, B2",
+    "lessons": "80",
+    "price": "CHF 110.– bis 980.–",
+    "schedule": [
+      "Morgen"
+    ]
+  },
+  {
+    "title": "Deutsch am Abend",
+    "link": "https://www.k5kurszentrum.ch/kurs/deutsch-am-abend/?t=20261026",
+    "description": "Deutsch am Abend",
+    "location": "Basel",
+    "dates": "26.10.2026 - 16.12.2026",
+    "level": "A1, A2, B1, B2",
+    "lessons": "40",
+    "price": "CHF 90.– bis 590.–",
+    "schedule": [
+      "Montag 18:30 – 20:30 Uhr",
+      "Mittwoch 18:30 – 20:30 Uhr"
+    ]
+  },
+  {
+    "title": "Deutsch am Morgen – mit Gutschein Basel-Stadt",
+    "link": "https://www.k5kurszentrum.ch/kurs/deutsch-am-morgen-mit-gutschein-bs/?t=20261026",
+    "description": "Deutsch am Morgen – mit Gutschein Basel-Stadt",
+    "location": "Basel",
+    "dates": "26.10.2026 - 18.12.2026",
+    "level": "A1, A2, B1, B2",
+    "lessons": "80",
+    "price": "CHF 110.– bis 980.–",
+    "schedule": [
+      "Morgen"
+    ]
+  },
+  {
+    "title": "Deutsch sofort ⁺– einmalig buchbarer Kurs für Neuzugezogene",
+    "link": "https://www.k5kurszentrum.ch/kurs/deutsch-sofort-%e2%81%ba/?t=20261027",
+    "description": "Deutsch sofort ⁺– einmalig buchbarer Kurs für Neuzugezogene",
+    "location": "Basel",
+    "dates": "27.10.2026 - 10.12.2026",
+    "level": "A1, A2",
+    "lessons": "80",
+    "price": "CHF 130.- bis CHF 1'160.–",
+    "schedule": null
+  },
+  {
+    "title": "Deutsch sofort ⁺ – einmalig buchbarer Kurs für Neuzugezogene mit Gutschein Basel-Stadt",
+    "link": "https://www.k5kurszentrum.ch/kurs/deutsch-sofort-%e2%81%ba-mit-gutschein-bs/?t=20261027",
+    "description": "Deutsch sofort ⁺ – einmalig buchbarer Kurs für Neuzugezogene mit Gutschein Basel-Stadt",
+    "location": "Basel",
+    "dates": "27.10.2026 - 10.12.2026",
+    "level": "A1, A2",
+    "lessons": "80",
+    "price": "CHF 130.- bis CHF 1'160.–",
+    "schedule": null
+  },
+  {
+    "title": "Basisbildung: Modul Deutsch und Stellensuche",
+    "link": "https://www.k5kurszentrum.ch/kurs/basisbildung-modul-deutsch-und-stellensuche/?t=20261105",
+    "description": "Basisbildung: Modul Deutsch und Stellensuche",
+    "location": "Basel",
+    "dates": "05.11.2026 - 21.01.2027",
+    "level": "A1, A2, B1, B2",
+    "lessons": "30",
+    "price": "CHF 90.– bis CHF 560.–",
+    "schedule": [
+      "Donnerstag 13:00 – 15:30 Uhr"
+    ]
+  },
+  {
+    "title": "Deutsch kompakt",
+    "link": "https://www.k5kurszentrum.ch/kurs/deutsch-kompakt/?t=20261105",
+    "description": "Deutsch kompakt",
+    "location": "Basel",
+    "dates": "05.11.2026 - 27.01.2027",
+    "level": "A1, A2, B1, B2",
+    "lessons": "200",
+    "price": "CHF 310.– bis CHF 2'900.–",
+    "schedule": null
+  },
+  {
+    "title": "Basisbildung: Modul Digitale Kompetenzen",
+    "link": "https://www.k5kurszentrum.ch/kurs/basisbildung-modul-digitale-kompetenzen/?t=20261109",
+    "description": "Basisbildung: Modul Digitale Kompetenzen",
+    "location": "Basel",
+    "dates": "09.11.2026 - 25.01.2027",
+    "level": "A1, A2, B1",
+    "lessons": "30",
+    "price": "CHF 90.– bis CHF 440.–",
+    "schedule": [
+      "Montag 13:00 – 15:45 Uhr | ab 17.8.26: 13:00 – 15:30 Uhr"
+    ]
+  },
+  {
+    "title": "Basisbildung: Modul Konversation",
+    "link": "https://www.k5kurszentrum.ch/kurs/basisbildung-modul-konversation/?t=20261110",
+    "description": "Basisbildung: Modul Konversation",
+    "location": "Basel",
+    "dates": "10.11.2026 - 26.01.2027",
+    "level": "A2.2, B1, B2",
+    "lessons": "30",
+    "price": "CHF 90.– bis CHF 440.–",
+    "schedule": [
+      "Dienstag 13:00 – 15:30 Uhr"
+    ]
+  },
+  {
+    "title": "Basisbildung: Modul Aussprache",
+    "link": "https://www.k5kurszentrum.ch/kurs/basisbildung-modul-aussprache/?t=20261110",
+    "description": "Basisbildung: Modul Aussprache",
+    "location": "Basel",
+    "dates": "10.11.2026 - 26.01.2027",
+    "level": "A1, A2, B1",
+    "lessons": "30",
+    "price": "CHF 90.– bis 440.–",
+    "schedule": [
+      "Dienstag 13:00 – 15:30 Uhr"
+    ]
+  },
+  {
+    "title": "Basisbildung: Modul Lesen und Schreiben",
+    "link": "https://www.k5kurszentrum.ch/kurs/basisbildung-modul-lesen-und-schreiben/?t=20261111",
+    "description": "Basisbildung: Modul Lesen und Schreiben",
+    "location": "Basel",
+    "dates": "11.11.2026 - 27.01.2027",
+    "level": "A1.1, A1.2, A2.1, A2.2, B1.2, B2.1, B2.2",
+    "lessons": "30",
+    "price": "CHF 90.– bis CHF 440.–",
+    "schedule": [
+      "Mittwoch 13:00 – 15:30 Uhr"
+    ]
+  },
+  {
+    "title": "Deutsch für Frauen",
+    "link": "https://www.k5kurszentrum.ch/kurs/deutsch-fuer-frauen/?t=20261130",
+    "description": "Deutsch für Frauen",
+    "location": "Basel",
+    "dates": "30.11.2026 - 12.03.2027",
+    "level": "A1, A2, B1, B2",
+    "lessons": "165",
+    "price": "CHF 270.– bis 2’390.–",
+    "schedule": null
+  }
+]
