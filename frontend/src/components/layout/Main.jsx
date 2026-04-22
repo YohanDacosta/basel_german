@@ -45,7 +45,7 @@ const Main = () => {
             ) : error ? (
               <div className="bg-red-50 border border-red-200 rounded-lg p-4 text-center">
                 <p className="text-red-600">Failed to load courses: {error}</p>
-                <p className="text-sm text-gray-500 mt-2">Please make sure the backend is running at http://localhost:8060</p>
+                <p className="text-sm text-gray-500 mt-2">The data could not be loaded. Please try again later.</p>
               </div>
             ) : filtered.length <= 0 ? (
               <NoCourses />
