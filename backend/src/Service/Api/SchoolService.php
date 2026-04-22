@@ -5,6 +5,7 @@ namespace App\Service\Api;
 use App\Entity\Schools;
 use App\Repository\SchoolsRepository;
 use Doctrine\Common\Collections\Collection;
+use Doctrine\Common\Collections\Criteria;
 
 class SchoolService
 {
@@ -33,6 +34,8 @@ class SchoolService
     {
         $school = $this->schoolRepository->findOneBy(['slug' => $slug]);
 
-        return $school?->getReviews();
+        return $school?->getReviews()->matching(
+            Criteria::create()->where(Criteria::expr()->eq('is_verified', true))
+        );
     }
 }
