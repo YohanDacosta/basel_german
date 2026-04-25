@@ -125,7 +125,7 @@ const SchoolDetailPage = () => {
       </Link>
 
       <div className="space-y-8">
-        <SchoolInfo school={school} onWriteReview={() => setShowReviewForm(true)} />
+        <SchoolInfo school={school} />
         <ProsCons pros={school.pros} cons={school.cons} />
         <SchoolCourseList courses={courses} />
         <SchoolReviews
