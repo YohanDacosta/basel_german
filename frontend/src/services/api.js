@@ -1,4 +1,4 @@
-const API_BASE_URL = import.meta.env.VITE_API_URL || 'https://api.deutsch-basel.com';
+const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:8060';
 
 export const fetchCourses = async (page = 1, limit = 200) => {
   const response = await fetch(`${API_BASE_URL}/api/courses?page=${page}&limit=${limit}`);
