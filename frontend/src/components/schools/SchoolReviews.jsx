@@ -1,8 +1,7 @@
 import { useState } from "react";
 import ReviewForm from "./ReviewForm";
 
-const SchoolReviews = ({ reviews, schoolId, schoolName }) => {
-  const [showForm, setShowForm] = useState(false);
+const SchoolReviews = ({ reviews, schoolId, schoolName, showForm, setShowForm }) => {
   const [successMessage, setSuccessMessage] = useState(null);
 
   const renderStars = (rating) => {
@@ -30,29 +29,10 @@ const SchoolReviews = ({ reviews, schoolId, schoolName }) => {
 
   return (
     <div className="bg-white rounded-lg shadow-md p-6">
-      <div className="flex justify-between items-center mb-4">
+      <div className="mb-4">
         <h2 className="text-xl font-bold text-gray-800">
           Reviews {reviews && reviews.length > 0 ? `(${reviews.length})` : ""}
         </h2>
-        <button
-          onClick={() => setShowForm(true)}
-          className="inline-flex items-center px-4 py-2 bg-violet-600 text-white rounded-lg hover:bg-violet-700 transition-colors text-sm font-medium"
-        >
-          <svg
-            className="w-4 h-4 mr-2"
-            fill="none"
-            stroke="currentColor"
-            viewBox="0 0 24 24"
-          >
-            <path
-              strokeLinecap="round"
-              strokeLinejoin="round"
-              strokeWidth={2}
-              d="M12 4v16m8-8H4"
-            />
-          </svg>
-          Write a Review
-        </button>
       </div>
 
       {successMessage && (

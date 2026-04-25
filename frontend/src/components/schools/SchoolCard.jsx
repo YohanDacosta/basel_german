@@ -111,12 +111,18 @@ const SchoolCard = ({ school }) => {
         </div>
       )}
 
-      <div className="mt-auto">
+      <div className="mt-auto flex flex-col gap-2">
         <Link
           to={`/schools/${school.slug}`}
           className="block w-full text-center py-2 bg-violet-500 text-white rounded-lg hover:bg-violet-600 transition-colors"
         >
           View Details
+        </Link>
+        <Link
+          to={`/schools/${school.slug}?writeReview=true`}
+          className="block w-full text-center py-2 border border-violet-500 text-violet-600 rounded-lg hover:bg-violet-50 transition-colors"
+        >
+          Write a Review
         </Link>
       </div>
     </div>

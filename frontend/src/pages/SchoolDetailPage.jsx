@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { useParams, Link } from "react-router-dom";
+import { useParams, Link, useSearchParams } from "react-router-dom";
 import useSchools from "../hooks/useSchools.jsx";
 import {
   SchoolInfo,
@@ -10,6 +10,7 @@ import {
 
 const SchoolDetailPage = () => {
   const { slug } = useParams();
+  const [searchParams, setSearchParams] = useSearchParams();
   const { getSchoolBySlug, getCoursesForSchool, getReviewsForSchool } = useSchools();
 
   const [school, setSchool] = useState(null);
@@ -17,6 +18,15 @@ const SchoolDetailPage = () => {
   const [reviews, setReviews] = useState([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
+  const [showReviewForm, setShowReviewForm] = useState(
+    searchParams.get("writeReview") === "true"
+  );
+
+  useEffect(() => {
+    if (searchParams.get("writeReview")) {
+      setSearchParams({}, { replace: true });
+    }
+  }, []);
 
   const loadReviews = async () => {
     const reviewsData = await getReviewsForSchool(slug);
@@ -115,7 +125,7 @@ const SchoolDetailPage = () => {
       </Link>
 
       <div className="space-y-8">
-        <SchoolInfo school={school} />
+        <SchoolInfo school={school} onWriteReview={() => setShowReviewForm(true)} />
         <ProsCons pros={school.pros} cons={school.cons} />
         <SchoolCourseList courses={courses} />
         <SchoolReviews
@@ -123,6 +133,8 @@ const SchoolDetailPage = () => {
           schoolId={school.id}
           schoolName={school.name}
           onReviewSubmitted={loadReviews}
+          showForm={showReviewForm}
+          setShowForm={setShowReviewForm}
         />
       </div>
     </main>

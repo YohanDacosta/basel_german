@@ -1,6 +1,6 @@
 import { useComparison } from "../../contexts/ComparisonContext.jsx";
 
-const SchoolInfo = ({ school }) => {
+const SchoolInfo = ({ school, onWriteReview }) => {
   const { isSelected, toggleSchool, selectedSchools } = useComparison();
   const selected = isSelected(school.id);
   const canSelect = selectedSchools.length < 3 || selected;
@@ -91,6 +91,15 @@ const SchoolInfo = ({ school }) => {
               Visit Website
             </a>
           )}
+          <button
+            onClick={onWriteReview}
+            className="flex items-center justify-center gap-2 px-4 py-2 bg-violet-600 text-white rounded-lg hover:bg-violet-700 transition-colors"
+          >
+            <svg className="h-5 w-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 4v16m8-8H4" />
+            </svg>
+            Write a Review
+          </button>
         </div>
       </div>
 
