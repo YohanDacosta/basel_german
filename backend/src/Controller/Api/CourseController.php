@@ -29,7 +29,7 @@ final class CourseController extends AbstractController
         $page = $request->query->getInt('page', 1);
         $limit = $request->query->getInt('limit', 10);
 
-        $limit = min($limit, 100);
+        $limit = min($limit, 500);
         $page = max($page, 1);
 
         $result = $this->courseService->searchCourses(
@@ -62,7 +62,7 @@ final class CourseController extends AbstractController
         $page = $request->query->getInt('page', 1);
         $limit = $request->query->getInt('limit', 10);
 
-        $limit = min($limit, 100);
+        $limit = min($limit, 500);
         $page = max($page, 1);
 
         $result = $this->courseService->getAllCourses($page, $limit);
