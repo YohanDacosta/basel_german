@@ -4,6 +4,7 @@ namespace App\Command;
 
 use App\Entity\Courses;
 use App\Entity\Schools;
+use App\Repository\CoursesRepository;
 use App\Repository\SchoolsRepository;
 use Doctrine\ORM\EntityManagerInterface;
 use Symfony\Component\Console\Attribute\AsCommand;
@@ -23,6 +24,7 @@ class ImportCoursesCommand extends Command
     public function __construct(
         private EntityManagerInterface $entityManager,
         private SchoolsRepository $schoolsRepository,
+        private CoursesRepository $coursesRepository,
         private string $projectDir,
     ) {
         parent::__construct();
@@ -32,13 +34,15 @@ class ImportCoursesCommand extends Command
     {
         $this
             ->addOption('school', 's', InputOption::VALUE_OPTIONAL, 'Import only courses from a specific school slug (derived from filename, e.g. ecap, k5)')
-            ->addOption('dry-run', null, InputOption::VALUE_NONE, 'Run without persisting to database');
+            ->addOption('dry-run', null, InputOption::VALUE_NONE, 'Run without persisting to database')
+            ->addOption('force', 'f', InputOption::VALUE_NONE, 'Force re-import even if school already has courses');
     }
 
     protected function execute(InputInterface $input, OutputInterface $output): int
     {
         $io = new SymfonyStyle($input, $output);
         $dryRun = $input->getOption('dry-run');
+        $force = $input->getOption('force');
         $schoolFilter = $input->getOption('school');
 
         if ($dryRun) {
@@ -62,6 +66,7 @@ class ImportCoursesCommand extends Command
             $filesToProcess = [$schoolFilter => $allFiles[$schoolFilter]];
         }
         $totalImported = 0;
+        $totalSkipped = 0;
         $errors = [];
 
         foreach ($filesToProcess as $schoolSlug => $filename) {
@@ -71,6 +76,17 @@ class ImportCoursesCommand extends Command
             if (!$school) {
                 $errors[] = sprintf('School with slug "%s" not found in database', $schoolSlug);
                 $io->warning(sprintf('School "%s" not found. Skipping...', $schoolSlug));
+                continue;
+            }
+
+            $existingCount = $this->coursesRepository->countBySchool($school);
+            if ($existingCount > 0 && !$force) {
+                $io->warning(sprintf(
+                    'Skipping "%s" — already has %d course(s) in database. Use --force to re-import.',
+                    $schoolSlug,
+                    $existingCount
+                ));
+                $totalSkipped++;
                 continue;
             }
 
@@ -105,7 +121,7 @@ class ImportCoursesCommand extends Command
                 $this->entityManager->flush();
             }
 
-            $io->success(sprintf('Imported %d courses from %s', $importedCount, $schoolSlug));
+            $io->success(sprintf('Imported %d course(s) from %s', $importedCount, $schoolSlug));
             $totalImported += $importedCount;
         }
 
@@ -116,7 +132,11 @@ class ImportCoursesCommand extends Command
             }
         }
 
-        $io->success(sprintf('Total courses imported: %d', $totalImported));
+        $io->success(sprintf(
+            'Import complete. Imported: %d course(s) | Skipped schools (already imported): %d',
+            $totalImported,
+            $totalSkipped
+        ));
 
         return Command::SUCCESS;
     }

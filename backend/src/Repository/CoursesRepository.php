@@ -3,6 +3,7 @@
 namespace App\Repository;
 
 use App\Entity\Courses;
+use App\Entity\Schools;
 use Doctrine\Bundle\DoctrineBundle\Repository\ServiceEntityRepository;
 use Doctrine\ORM\Tools\Pagination\Paginator;
 use Doctrine\Persistence\ManagerRegistry;
@@ -87,5 +88,15 @@ class CoursesRepository extends ServiceEntityRepository
             ->setMaxResults($limit);
 
         return new Paginator($qb->getQuery());
+    }
+
+    public function countBySchool(Schools $school): int
+    {
+        return (int) $this->createQueryBuilder('c')
+            ->select('COUNT(c.id)')
+            ->andWhere('c.school = :school')
+            ->setParameter('school', $school)
+            ->getQuery()
+            ->getSingleScalarResult();
     }
 }
