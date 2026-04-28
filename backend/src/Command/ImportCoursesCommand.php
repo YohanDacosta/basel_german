@@ -20,12 +20,6 @@ use Symfony\Component\Uid\Uuid;
 )]
 class ImportCoursesCommand extends Command
 {
-    private const SCHOOL_FILE_MAP = [
-        'ecap' => 'courses-ecap.json',
-        'k5' => 'courses-k5.json',
-        'academia' => 'courses-academia.json',
-    ];
-
     public function __construct(
         private EntityManagerInterface $entityManager,
         private SchoolsRepository $schoolsRepository,
@@ -37,7 +31,7 @@ class ImportCoursesCommand extends Command
     protected function configure(): void
     {
         $this
-            ->addOption('school', 's', InputOption::VALUE_OPTIONAL, 'Import only courses from a specific school (ecap, k5, academia)')
+            ->addOption('school', 's', InputOption::VALUE_OPTIONAL, 'Import only courses from a specific school slug (derived from filename, e.g. ecap, k5)')
             ->addOption('dry-run', null, InputOption::VALUE_NONE, 'Run without persisting to database');
     }
 
@@ -51,16 +45,22 @@ class ImportCoursesCommand extends Command
             $io->note('Running in dry-run mode. No data will be persisted.');
         }
 
-        $filesToProcess = self::SCHOOL_FILE_MAP;
-        if ($schoolFilter) {
-            if (!isset(self::SCHOOL_FILE_MAP[$schoolFilter])) {
-                $io->error(sprintf('Unknown school: %s. Valid options: %s', $schoolFilter, implode(', ', array_keys(self::SCHOOL_FILE_MAP))));
-                return Command::FAILURE;
-            }
-            $filesToProcess = [$schoolFilter => self::SCHOOL_FILE_MAP[$schoolFilter]];
+        $resourcesDir = $this->projectDir . '/resources';
+        $allFiles = $this->discoverSchoolFiles($resourcesDir);
+
+        if (empty($allFiles)) {
+            $io->warning('No courses-*.json files found in ' . $resourcesDir);
+            return Command::SUCCESS;
         }
 
-        $resourcesDir = $this->projectDir . '/resources';
+        $filesToProcess = $allFiles;
+        if ($schoolFilter) {
+            if (!isset($allFiles[$schoolFilter])) {
+                $io->error(sprintf('Unknown school: %s. Available: %s', $schoolFilter, implode(', ', array_keys($allFiles))));
+                return Command::FAILURE;
+            }
+            $filesToProcess = [$schoolFilter => $allFiles[$schoolFilter]];
+        }
         $totalImported = 0;
         $errors = [];
 
@@ -119,6 +119,18 @@ class ImportCoursesCommand extends Command
         $io->success(sprintf('Total courses imported: %d', $totalImported));
 
         return Command::SUCCESS;
+    }
+
+    private function discoverSchoolFiles(string $resourcesDir): array
+    {
+        $map = [];
+        foreach (glob($resourcesDir . '/courses-*.json') ?: [] as $filePath) {
+            $filename = basename($filePath);
+            $slug = substr($filename, strlen('courses-'), -strlen('.json'));
+            $map[$slug] = $filename;
+        }
+        ksort($map);
+        return $map;
     }
 
     private function createCourseFromData(array $data, Schools $school): Courses
