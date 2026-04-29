@@ -51,6 +51,8 @@
 # Embedded web-server pid file
 /.web-server-pid
 /.DS_Store
+/backend/.DS_Store
+/resources/.DS_Store
 /.idea
 /CLAUDE.md
 /backend/CLAUDE.md
