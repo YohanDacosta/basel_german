@@ -90,6 +90,17 @@ class ImportCoursesCommand extends Command
                 continue;
             }
 
+            if ($existingCount > 0 && $force) {
+                $existingCourses = $this->coursesRepository->findBy(['school' => $school]);
+                foreach ($existingCourses as $existing) {
+                    $this->entityManager->remove($existing);
+                }
+                if (!$dryRun) {
+                    $this->entityManager->flush();
+                }
+                $io->note(sprintf('Deleted %d existing course(s) for "%s" before re-importing.', $existingCount, $schoolSlug));
+            }
+
             $filePath = $resourcesDir . '/' . $filename;
             if (!file_exists($filePath)) {
                 $errors[] = sprintf('File not found: %s', $filePath);
