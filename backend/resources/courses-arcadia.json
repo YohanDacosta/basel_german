@@ -1,0 +1,119 @@
+[
+  {
+    "title": "Abendkurs",
+    "link": "https://www.arcadia-bildungscampus.ch/de/orsini/courses/evening",
+    "description": "Sie arbeiten oder studieren  und möchten nebenbei Deutsch lernen? Unsere Abendkurse machen es möglich! An nur zwei Abenden pro Woche lernen Sie wichtige Vokabel- und Grammatik-Bausteine kennen und wenden diese in alltagsnahen Situationen an. Die aktive Anwendung der Sprache - Sprechen, Schreiben und Verstehen - steht dabei im Fokus!",
+    "location": "Weisse Gasse 6, 4001 Basel",
+    "dates": "Auf Anfrage",
+    "level": "A1, A2, B1, B2",
+    "lessons": "80",
+    "price": "CHF ab 1'300.-",
+    "schedule": [
+      "Montag & Mittwoch 18:00 - 20:30"
+    ]
+  },
+  {
+    "title": "Tagesintensivkurs",
+    "link": "https://www.arcadia-bildungscampus.ch/de/orsini/courses/intensive",
+    "description": "Sie möchten Deutsch lernen und schnell Fortschritte machen? Dann sind unsere Tagesintensivkurse genau das Richtige für Sie!",
+    "location": "Weisse Gasse 6, 4001 Basel",
+    "dates": "Auf Anfrage",
+    "level": "A1, A2, B1, B2",
+    "lessons": "80",
+    "price": "CHF ab 1'300.-",
+    "schedule": [
+      "Montag - Freitag 08:30 - 10:00",
+      "Montag - Freitag 10:30 - 12:00"
+    ]
+  },
+  {
+    "title": "Samstagskurs",
+    "link": "https://www.arcadia-bildungscampus.ch/de/orsini/courses/saturday",
+    "description": "Sie arbeiten oder studieren  und möchten nebenbei Deutsch lernen? Unsere Samstagskurse machen es möglich! Lernen Sie wichtige Vokabel- und Grammatik-Bausteine kennen und wenden diese in alltagsnahen Situationen an. Die aktive Anwendung der Sprache - Sprechen, Schreiben und Verstehen - steht dabei im Fokus!",
+    "location": "Weisse Gasse 6, 4001 Basel",
+    "dates": "Auf Anfrage",
+    "level": "A1, A2, B1, B2",
+    "lessons": "80",
+    "price": "CHF ab 1'300.-",
+    "schedule": [
+      "Samstag 09:00 - 12:30"
+    ]
+  },
+  {
+    "title": "Deutsch auf der Baustelle (Tagesintensivkurs)",
+    "link": "https://www.arcadia-bildungscampus.ch/de/orsini/courses/construction-intensive",
+    "description": "Dieser intensive Sprachkurs richtet sich an Berufstätige in der Baubranche, die ihre Deutschkenntnisse gezielt verbessern möchten. Die Teilnehmenden erweitern ihren Wortschatz, üben praxisnahe Kommunikationssituationen und stärken ihre sprachliche Sicherheit am Arbeitsplatz. Durch den branchenorientierten Unterricht verbessern sie die Verständigung mit Vorgesetzten, Auftraggebern und Kolleginnen und Kollegen. Der Kurs findet von Montag bis Freitag, jeweils von 8.30 bis 12.00 Uhr statt.",
+    "location": "Weisse Gasse 6, 4001 Basel",
+    "dates": "Auf Anfrage",
+    "level": "A1, A2, B1, B2",
+    "lessons": "80",
+    "price": "CHF ab 1'300.-",
+    "schedule": [
+      "Montag - Freitag 08:30 - 12:00"
+    ]
+  },
+  {
+    "title": "Deutsch auf der Baustelle (Samstagskurs)",
+    "link": "https://www.arcadia-bildungscampus.ch/de/orsini/courses/construction-saturday",
+    "description": "In diesem branchenorientierten Sprachkurs bauen die Teilnehmenden ihre Sprachkompetenzen in Deutsch auf und aus. Die erworbenen Kenntnisse stärken sie im Berufsalltag auf der Baustelle. Sie erweitern ihren beruflichen Wortschatz und verbessern die Kommunikation mit Vorgesetzten, Auftraggebern sowie Arbeitskolleginnen und -kollegen. Der Kurs findet samstags von 9.00 bis 14.00 Uhr statt und beinhaltet eine Kaffeepause am Morgen sowie eine Verpflegungspause am Mittag.",
+    "location": "Weisse Gasse 6, 4001 Basel",
+    "dates": "Auf Anfrage",
+    "level": "A1, A2, B1, B2",
+    "lessons": "80",
+    "price": "CHF ab 1'300.-",
+    "schedule": [
+      "Samstag 08:30 - 12:00"
+    ]
+  },
+  {
+    "title": "Vorbereitungskurse",
+    "link": "https://www.arcadia-bildungscampus.ch/de/orsini/courses/preparation",
+    "description": "Sie benötigen einen Sprachnachweis und möchten sich auf eine Telc- oder Goethe-Prüfung vorbereiten? In unseren massgeschneiderten Vorbereitungsworkshops machen Sie sich mit allen Prüfungsteilen vertraut und üben intensiv, um das bestmögliche Ergebnis zu erzielen.",
+    "location": "Weisse Gasse 6, 4001 Basel",
+    "dates": "Auf Anfrage",
+    "level": "A1, A2, B1, B2, C1",
+    "lessons": null,
+    "price": "Preis auf Anfrage",
+    "schedule": [
+      "Montag - Freitag 08:30 - 10:00",
+      "Montag - Freitag 18:00 - 19:30"
+    ]
+  },
+  {
+    "title": "Blended Learning",
+    "link": "https://www.arcadia-bildungscampus.ch/de/orsini/courses/blended-learning",
+    "description": "Sie möchten flexibel und unabhängig Deutsch, Englisch oder Französisch lernen? Dann ist unser Blended-Learning-Angebot genau das Richtige für Sie! Eine Kombination aus kuratierten Onlineaufgaben und Tutorien hilft Ihnen dabei, Ihre Sprachkenntnisse zu vertiefen.",
+    "location": "Weisse Gasse 6, 4001 Basel",
+    "dates": "Auf Anfrage",
+    "level": "A1, A2",
+    "lessons": null,
+    "price": "Preis auf Anfrage",
+    "schedule": []
+  },
+  {
+    "title": "Privatlektionen",
+    "link": "https://www.arcadia-bildungscampus.ch/de/orsini/courses/private",
+    "description": "Sie möchten ganz auf Ihre eigenen Bedürfnisse eine Sprache lernen oder sich auf eine Sprachprüfung vorbereiten?",
+    "location": "Weisse Gasse 6, 4001 Baseloder bei Ihnen zu Hause",
+    "dates": "Auf Anfrage",
+    "level": "A1, A2, B1, B2, C1",
+    "lessons": null,
+    "price": "Preis auf Anfrage",
+    "schedule": [
+      "individualisierbar"
+    ]
+  },
+  {
+    "title": "Nachhilfeprogramm",
+    "link": "https://www.arcadia-bildungscampus.ch/de/orsini/courses/tutoring",
+    "description": "Benötigt Ihr Kind Unterstützung in der Schule? Unser aufgestelltes Lehrpersonal unterstützt Ihre Kinder alters- und stufengerecht in naturwissenschaftlichen Fächern und Sprachen. Ob Schwierigkeiten mit den Hausaufgaben, Lernrückstand oder Auffrischen von Schulstoff - wir unterstützen Schüler:innen flexibel, individuell und effizient.",
+    "location": "Weisse Gasse 6, 4001 Baseloder bei Ihnen zu Hause",
+    "dates": "Auf Anfrage",
+    "level": null,
+    "lessons": null,
+    "price": "Preis auf Anfrage",
+    "schedule": [
+      "individualisierbar"
+    ]
+  }
+]

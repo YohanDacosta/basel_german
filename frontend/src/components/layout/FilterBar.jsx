@@ -27,6 +27,7 @@ const FilterBar = () => {
     { id: "k5", label: "K5" },
       { id: "academia", label: "Academia" },
       { id: "klubschule_migros", label: "Klubschule Migros" },
+      { id: "arcadia", label: "Arcadia" },
   ];
 
   const levels = [
