@@ -14,6 +14,7 @@ use App\Repository\SchoolsRepository;
 use App\Repository\UserRepository;
 use Doctrine\ORM\EntityManagerInterface;
 use Doctrine\ORM\Tools\Pagination\Paginator;
+use Psr\Log\LoggerInterface;
 use Symfony\Component\Uid\Uuid;
 
 class ReviewService
@@ -24,7 +25,8 @@ class ReviewService
         private SchoolsRepository $schoolsRepository,
         private CoursesRepository $coursesRepository,
         private ReviewEmailService $reviewEmailService,
-        private EntityManagerInterface $entityManager
+        private EntityManagerInterface $entityManager,
+        private LoggerInterface $logger
     ) {
     }
 
@@ -203,7 +205,15 @@ class ReviewService
         $this->entityManager->persist($review);
         $this->entityManager->flush();
 
-        $this->reviewEmailService->sendVerificationEmail($review);
+        try {
+            $this->reviewEmailService->sendVerificationEmail($review);
+        } catch (\Exception $e) {
+            $this->logger->error('Failed to send verification email', [
+                'reviewId' => $review->getId()->toRfc4122(),
+                'email' => $review->getEmail(),
+                'error' => $e->getMessage(),
+            ]);
+        }
 
         return ['success' => true];
     }
@@ -269,7 +279,14 @@ class ReviewService
 
         $this->entityManager->flush();
 
-        $this->reviewEmailService->sendVerificationEmail($review);
+        try {
+            $this->reviewEmailService->sendVerificationEmail($review);
+        } catch (\Exception $e) {
+            $this->logger->error('Failed to resend verification email', [
+                'email' => $email,
+                'error' => $e->getMessage(),
+            ]);
+        }
 
         return ['success' => true];
     }
