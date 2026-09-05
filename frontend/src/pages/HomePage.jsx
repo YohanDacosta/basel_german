@@ -8,7 +8,7 @@ const HomePage = () => {
   const { filtered, loading, error, stats } = useFilteredCourses();
 
   return (
-    <main className="px-4 py-6">
+    <main className="mx-auto w-full max-w-6xl px-4 py-6">
       {/* Hero Section */}
       <div className="bg-gradient-to-r from-violet-500 to-violet-600 rounded-lg p-6 md:p-8 mb-8 text-white">
         <div className="max-w-3xl">
@@ -42,24 +42,31 @@ const HomePage = () => {
       </div>
 
       {/* Stats Bar */}
-      <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-        <div className="bg-white rounded-lg shadow-sm p-4 text-center">
-          <p className="text-2xl font-bold text-violet-600">{stats.totalCourses || '...'}</p>
-          <p className="text-sm text-gray-500">Courses</p>
-        </div>
-        <div className="bg-white rounded-lg shadow-sm p-4 text-center">
-          <p className="text-2xl font-bold text-violet-600">{stats.totalSchools || '...'}</p>
-          <p className="text-sm text-gray-500">Schools</p>
-        </div>
-        <div className="bg-white rounded-lg shadow-sm p-4 text-center">
-          <p className="text-2xl font-bold text-violet-600">A1-C2</p>
-          <p className="text-sm text-gray-500">All Levels</p>
-        </div>
-        <div className="bg-white rounded-lg shadow-sm p-4 text-center">
-          <p className="text-2xl font-bold text-violet-600">
-            {stats.minPrice ? `CHF ${stats.minPrice}` : '...'}
+      <div className="mb-8 grid grid-cols-2 gap-3 sm:gap-4 md:grid-cols-4">
+        <div className="min-w-0 rounded-2xl bg-white px-4 py-4 shadow-[0_12px_50px_rgba(17,17,17,0.08)]">
+          <p className="font-mono text-2xl font-semibold tracking-tight text-gray-800 tabular-nums">
+            {stats.totalCourses || '...'}
           </p>
-          <p className="text-sm text-gray-500">Starting Price</p>
+          <p className="mt-1 truncate text-sm text-gray-500">Courses</p>
+        </div>
+        <div className="min-w-0 rounded-2xl bg-white px-4 py-4 shadow-[0_12px_50px_rgba(17,17,17,0.08)]">
+          <p className="font-mono text-2xl font-semibold tracking-tight text-gray-800 tabular-nums">
+            {stats.totalSchools || '...'}
+          </p>
+          <p className="mt-1 truncate text-sm text-gray-500">Schools</p>
+        </div>
+        <div className="min-w-0 rounded-2xl bg-white px-4 py-4 shadow-[0_12px_50px_rgba(17,17,17,0.08)]">
+          <p className="font-mono text-2xl font-semibold tracking-tight text-gray-800 tabular-nums">
+            A1-C2
+          </p>
+          <p className="mt-1 truncate text-sm text-gray-500">All Levels</p>
+        </div>
+        <div className="min-w-0 rounded-2xl bg-white px-4 py-4 shadow-[0_12px_50px_rgba(17,17,17,0.08)]">
+          <p className="inline-flex items-baseline gap-1 font-mono text-2xl font-semibold tracking-tight text-gray-800 tabular-nums">
+            <span className="text-base font-semibold text-violet-500">CHF</span>
+            {stats.minPrice || '...'}
+          </p>
+          <p className="mt-1 truncate text-sm text-gray-500">Starting Price</p>
         </div>
       </div>
 
@@ -67,7 +74,7 @@ const HomePage = () => {
       <div className="flex flex-col lg:flex-row gap-6">
         <FilterBar />
 
-        <div className="flex-1">
+        <div className="min-w-0 flex-1">
           <div className="flex items-center justify-between mb-4">
             <h2 className="text-xl font-bold text-gray-800">
               Available Courses
