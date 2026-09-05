@@ -8,7 +8,9 @@
     "level": "Alpha",
     "lessons": "80",
     "price": "CHF 91.00",
-    "schedule": "Montag/Mittwoch oder Dienstag/Donnerstag, 18.30 - 20.30 Uhr"
+    "schedule": [
+      "Montag/Mittwoch oder Dienstag/Donnerstag, 18.30 - 20.30 Uhr"
+    ]
   },
   {
     "title": "Alphabetisierungskurs am Nachmittag",
@@ -19,7 +21,9 @@
     "level": "Alpha",
     "lessons": "80",
     "price": "CHF 91.00",
-    "schedule": "Montag/Mittwoch oder Dienstag/Donnerstag, 14.00 - 16.00 Uhr"
+    "schedule": [
+      "Montag/Mittwoch oder Dienstag/Donnerstag, 14.00 - 16.00 Uhr"
+    ]
   },
   {
     "title": "Alphabetisierungskurs intensiv",
@@ -30,7 +34,9 @@
     "level": "Alpha",
     "lessons": "10",
     "price": "CHF 103.00",
-    "schedule": "Montag - Freitag, 08.30 - 10.00 Uhr oder 10.30 - 12.00 Uhr oder 14.00 - 15.30 Uhr"
+    "schedule": [
+      "Montag - Freitag, 08.30 - 10.00 Uhr oder 10.30 - 12.00 Uhr oder 14.00 - 15.30 Uhr"
+    ]
   },
   {
     "title": "Deutsch am Abend",
@@ -41,7 +47,9 @@
     "level": "A1",
     "lessons": "80",
     "price": "CHF 182.00",
-    "schedule": "Montag/Mittwoch oder Dienstag/Donnerstag, 18.30 - 20.30 Uhr"
+    "schedule": [
+      "Montag/Mittwoch oder Dienstag/Donnerstag, 18.30 - 20.30 Uhr"
+    ]
   },
   {
     "title": "Deutsch am Abend",
@@ -52,7 +60,9 @@
     "level": "A2",
     "lessons": "80",
     "price": "CHF 182.00",
-    "schedule": "Montag/Mittwoch oder Dienstag/Donnerstag, 18.30 - 20.30 Uhr"
+    "schedule": [
+      "Montag/Mittwoch oder Dienstag/Donnerstag, 18.30 - 20.30 Uhr"
+    ]
   },
   {
     "title": "Deutsch am Abend",
@@ -63,7 +73,9 @@
     "level": "B1",
     "lessons": "80",
     "price": "CHF 182.00",
-    "schedule": "Montag/Mittwoch oder Dienstag/Donnerstag, 18.30 - 20.30 Uhr"
+    "schedule": [
+      "Montag/Mittwoch oder Dienstag/Donnerstag, 18.30 - 20.30 Uhr"
+    ]
   },
   {
     "title": "Deutsch am Abend",
@@ -74,7 +86,9 @@
     "level": "B2",
     "lessons": "80",
     "price": "CHF 182.00",
-    "schedule": "Montag/Mittwoch oder Dienstag/Donnerstag, 18.30 - 20.30 Uhr"
+    "schedule": [
+      "Montag/Mittwoch oder Dienstag/Donnerstag, 18.30 - 20.30 Uhr"
+    ]
   },
   {
     "title": "Deutsch am Abend",
@@ -85,7 +99,9 @@
     "level": "C1",
     "lessons": "80",
     "price": "CHF 182.00",
-    "schedule": "Montag/Mittwoch oder Dienstag/Donnerstag, 18.30 - 20.30 Uhr"
+    "schedule": [
+      "Montag/Mittwoch oder Dienstag/Donnerstag, 18.30 - 20.30 Uhr"
+    ]
   },
   {
     "title": "Deutsch am Nachmittag",
@@ -96,7 +112,9 @@
     "level": "A1",
     "lessons": "80",
     "price": "CHF 182.00",
-    "schedule": "Montag/Mittwoch oder Dienstag/Donnerstag, 14.00 - 16.00 Uhr"
+    "schedule": [
+      "Montag/Mittwoch oder Dienstag/Donnerstag, 14.00 - 16.00 Uhr"
+    ]
   },
   {
     "title": "Deutsch am Nachmittag",
@@ -107,7 +125,9 @@
     "level": "A2",
     "lessons": "80",
     "price": "CHF 182.00",
-    "schedule": "Montag/Mittwoch oder Dienstag/Donnerstag, 14.00 - 16.00 Uhr"
+    "schedule": [
+      "Montag/Mittwoch oder Dienstag/Donnerstag, 14.00 - 16.00 Uhr"
+    ]
   },
   {
     "title": "Deutsch am Nachmittag",
@@ -118,7 +138,9 @@
     "level": "B2",
     "lessons": "80",
     "price": "CHF 182.00",
-    "schedule": "Montag/Mittwoch oder Dienstag/Donnerstag, 14.00 - 16.00 Uhr"
+    "schedule": [
+      "Montag/Mittwoch oder Dienstag/Donnerstag, 14.00 - 16.00 Uhr"
+    ]
   },
   {
     "title": "Deutsch am Nachmittag",
@@ -129,7 +151,9 @@
     "level": "C1",
     "lessons": "80",
     "price": "CHF 182.00",
-    "schedule": "Montag/Mittwoch oder Dienstag/Donnerstag, 14.00 - 16.00 Uhr"
+    "schedule": [
+      "Montag/Mittwoch oder Dienstag/Donnerstag, 14.00 - 16.00 Uhr"
+    ]
   },
   {
     "title": "Deutsch am Nachmittag",
@@ -140,7 +164,9 @@
     "level": "B1",
     "lessons": "80",
     "price": "CHF 182.00",
-    "schedule": "Montag/Mittwoch oder Dienstag/Donnerstag, 14.00 - 16.00 Uhr"
+    "schedule": [
+      "Montag/Mittwoch oder Dienstag/Donnerstag, 14.00 - 16.00 Uhr"
+    ]
   },
   {
     "title": "Deutsch Einstieg",
@@ -151,7 +177,9 @@
     "level": "A1",
     "lessons": "12",
     "price": "CHF 103.00",
-    "schedule": "Montag - Donnerstag, 08.30 - 11.15 Uhr"
+    "schedule": [
+      "Montag - Donnerstag, 08.30 - 11.15 Uhr"
+    ]
   },
   {
     "title": "Deutsch für Bauarbeiter – fide-Sprachkurs im Auftrag der LMV-Partner – Niveau A1.1",
@@ -162,7 +190,9 @@
     "level": "A1",
     "lessons": "4",
     "price": "CHF 100.00",
-    "schedule": "Samstag, 9.00 -12.30 Uhr"
+    "schedule": [
+      "Samstag, 9.00 -12.30 Uhr"
+    ]
   },
   {
     "title": "Deutsch für Bauarbeiter – fide-Sprachkurs im Auftrag der LMV-Partner",
@@ -173,7 +203,9 @@
     "level": "A2",
     "lessons": "4",
     "price": "CHF 100.00",
-    "schedule": "Samstag, 9.00 -12.30 Uhr"
+    "schedule": [
+      "Samstag, 9.00 -12.30 Uhr"
+    ]
   },
   {
     "title": "Deutsch für Bauarbeiter – fide-Sprachkurs im Auftrag der LMV-Partner",
@@ -184,7 +216,9 @@
     "level": "B1",
     "lessons": "4",
     "price": "CHF 100.00",
-    "schedule": "Samstag, 9.00 -12.30 Uhr"
+    "schedule": [
+      "Samstag, 9.00 -12.30 Uhr"
+    ]
   },
   {
     "title": "Deutsch für Beschäftigte im Gastgewerbe",
@@ -195,7 +229,9 @@
     "level": "A1",
     "lessons": "4",
     "price": "CHF 100.00",
-    "schedule": "Montag/Mittwoch oder Dienstag/Donnerstag, 8.00 - 9.30 oder 15.00 -16.30 Uhr"
+    "schedule": [
+      "Montag/Mittwoch oder Dienstag/Donnerstag, 8.00 - 9.30 oder 15.00 -16.30 Uhr"
+    ]
   },
   {
     "title": "Deutsch für Beschäftigte im Gastgewerbe",
@@ -206,7 +242,9 @@
     "level": "A2",
     "lessons": "4",
     "price": "CHF 100.00",
-    "schedule": "Montag/Mittwoch oder Dienstag/Donnerstag, 8.00 - 9.30 oder 15.00 -16.30 Uhr"
+    "schedule": [
+      "Montag/Mittwoch oder Dienstag/Donnerstag, 8.00 - 9.30 oder 15.00 -16.30 Uhr"
+    ]
   },
   {
     "title": "Deutsch für Beschäftigte im Gastgewerbe",
@@ -217,7 +255,9 @@
     "level": "B1",
     "lessons": "4",
     "price": "CHF 100.00",
-    "schedule": "Montag/Mittwoch oder Dienstag/Donnerstag, 8.00 - 9.30 oder 15.00 -16.30 Uhr"
+    "schedule": [
+      "Montag/Mittwoch oder Dienstag/Donnerstag, 8.00 - 9.30 oder 15.00 -16.30 Uhr"
+    ]
   },
   {
     "title": "Deutsch für Beschäftigte in der Reinigungsbranche",
@@ -228,7 +268,9 @@
     "level": "A1",
     "lessons": "4",
     "price": "CHF 100.00",
-    "schedule": "Montag/Mittwoch oder Dienstag/Donnerstag, 9.15 - 10.45 oder 14.00 - 15.30 oder 19.00 -20.30 Uhr"
+    "schedule": [
+      "Montag/Mittwoch oder Dienstag/Donnerstag, 9.15 - 10.45 oder 14.00 - 15.30 oder 19.00 -20.30 Uhr"
+    ]
   },
   {
     "title": "Deutsch für Beschäftigte in der Reinigungsbranche",
@@ -239,7 +281,9 @@
     "level": "B1",
     "lessons": "4",
     "price": "CHF 100.00",
-    "schedule": "Montag/Mittwoch oder Dienstag/Donnerstag, 9.15 - 10.45 oder 14.00 - 15.30 oder 19.00 -20.30 Uhr"
+    "schedule": [
+      "Montag/Mittwoch oder Dienstag/Donnerstag, 9.15 - 10.45 oder 14.00 - 15.30 oder 19.00 -20.30 Uhr"
+    ]
   },
   {
     "title": "Deutsch für Beschäftigte in der Reinigungsbranche",
@@ -250,7 +294,9 @@
     "level": "A2",
     "lessons": "4",
     "price": "CHF 100.00",
-    "schedule": "Montag/Mittwoch oder Dienstag/Donnerstag, 9.15 - 10.45 oder 14.00 - 15.30 oder 19.00 -20.30 Uhr"
+    "schedule": [
+      "Montag/Mittwoch oder Dienstag/Donnerstag, 9.15 - 10.45 oder 14.00 - 15.30 oder 19.00 -20.30 Uhr"
+    ]
   },
   {
     "title": "Deutsch Intensiv",
@@ -261,7 +307,9 @@
     "level": "A1",
     "lessons": "10",
     "price": "CHF 206.00",
-    "schedule": "Montag - Freitag, 08.30 - 10.00 Uhr oder 10.30 - 12.00 Uhr oder 14.00 - 15.30 Uhr"
+    "schedule": [
+      "Montag - Freitag, 08.30 - 10.00 Uhr oder 10.30 - 12.00 Uhr oder 14.00 - 15.30 Uhr"
+    ]
   },
   {
     "title": "Deutsch Intensiv",
@@ -272,7 +320,9 @@
     "level": "A2",
     "lessons": "10",
     "price": "CHF 206.00",
-    "schedule": "Montag - Freitag, 08.30 - 10.00 Uhr oder 10.30 - 12.00 Uhr oder 14.00 - 15.30 Uhr"
+    "schedule": [
+      "Montag - Freitag, 08.30 - 10.00 Uhr oder 10.30 - 12.00 Uhr oder 14.00 - 15.30 Uhr"
+    ]
   },
   {
     "title": "Deutsch Intensiv",
@@ -283,7 +333,9 @@
     "level": "B1",
     "lessons": "10",
     "price": "CHF 206.00",
-    "schedule": "Montag - Freitag, 08.30 - 10.00 Uhr oder 10.30 - 12.00 Uhr oder 14.00 - 15.30 Uhr"
+    "schedule": [
+      "Montag - Freitag, 08.30 - 10.00 Uhr oder 10.30 - 12.00 Uhr oder 14.00 - 15.30 Uhr"
+    ]
   },
   {
     "title": "Deutsch Intensiv",
@@ -294,7 +346,9 @@
     "level": "B2",
     "lessons": "10",
     "price": "CHF 206.00",
-    "schedule": "Montag - Freitag, 08.30 - 10.00 Uhr oder 10.30 - 12.00 Uhr oder 14.00 - 15.30 Uhr"
+    "schedule": [
+      "Montag - Freitag, 08.30 - 10.00 Uhr oder 10.30 - 12.00 Uhr oder 14.00 - 15.30 Uhr"
+    ]
   },
   {
     "title": "Deutsch Intensiv",
@@ -305,7 +359,9 @@
     "level": "C1",
     "lessons": "10",
     "price": "CHF 206.00",
-    "schedule": "Montag - Freitag, 08.30 - 10.00 Uhr oder 10.30 - 12.00 Uhr oder 14.00 - 15.30 Uhr"
+    "schedule": [
+      "Montag - Freitag, 08.30 - 10.00 Uhr oder 10.30 - 12.00 Uhr oder 14.00 - 15.30 Uhr"
+    ]
   },
   {
     "title": "Konversationskurs am Abend",
@@ -316,7 +372,9 @@
     "level": "A2, B1",
     "lessons": "40",
     "price": "CHF 318.50",
-    "schedule": "1 Abend pro Woche, 18.30 - 20.30 Uhr"
+    "schedule": [
+      "1 Abend pro Woche, 18.30 - 20.30 Uhr"
+    ]
   },
   {
     "title": "Deutsch für Bauarbeiter – fide-Sprachkurs im Auftrag der LMV-Partner",
@@ -327,7 +385,9 @@
     "level": "A1",
     "lessons": "4",
     "price": "CHF 100.00",
-    "schedule": "Samstag, 9.00 -12.30 Uhr"
+    "schedule": [
+      "Samstag, 9.00 -12.30 Uhr"
+    ]
   },
   {
     "title": "Deutsch für Bauarbeiter – fide-Sprachkurs im Auftrag der LMV-Partner – A1.1-2",
@@ -338,7 +398,9 @@
     "level": "A2",
     "lessons": "4",
     "price": "CHF 100.00",
-    "schedule": "Samstag, 9.00 -12.30 Uhr"
+    "schedule": [
+      "Samstag, 9.00 -12.30 Uhr"
+    ]
   },
   {
     "title": "Deutsch für Bauarbeiter – fide-Sprachkurs im Auftrag der LMV-Partner – A2 und B1",
@@ -349,6 +411,8 @@
     "level": "B1",
     "lessons": "4",
     "price": "CHF 100.00",
-    "schedule": "Samstag, 9.00 -12.30 Uhr"
+    "schedule": [
+      "Samstag, 9.00 -12.30 Uhr"
+    ]
   }
 ]
