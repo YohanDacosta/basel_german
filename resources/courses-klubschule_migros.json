@@ -11,11 +11,11 @@
     "schedule": []
   },
   {
-    "title": "Deutsch Anfänger*innen A1 (1/3)",
-    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-anfangerinnen-a1-13--E_1811218_2663_1551",
-    "description": "Deutsch Anfänger*innen A1 (1/3)",
+    "title": "Deutsch Anfänger*innen",
+    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-anfangerinnen--E_1869459_2663_1551",
+    "description": "Deutsch Anfänger*innen",
     "location": "Basel, Grosspeterstrasse 18",
-    "dates": "14.03.2026 - 27.06.2026",
+    "dates": "12.09.2026 - 12.12.2026",
     "level": "A1",
     "lessons": "40",
     "price": "CHF 580.00",
@@ -24,37 +24,11 @@
     ]
   },
   {
-    "title": "Deutsch Anfänger*innen A1 (1/3)",
-    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-anfangerinnen-a1-13--E_1813612_2663_1551",
-    "description": "Deutsch Anfänger*innen A1 (1/3)",
+    "title": "Deutsch Anfänger*innen",
+    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-anfangerinnen--E_1811220_2663_1551",
+    "description": "Deutsch Anfänger*innen",
     "location": "Basel, Grosspeterstrasse 18",
-    "dates": "11.05.2026 - 21.09.2026",
-    "level": "A1",
-    "lessons": "39",
-    "price": "CHF 565.50",
-    "schedule": [
-      "Mo 14:00 - 16:50"
-    ]
-  },
-  {
-    "title": "Deutsch Anfänger*innen A1 (1/3)",
-    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-anfangerinnen-a1-13--E_1811221_2663_1551",
-    "description": "Deutsch Anfänger*innen A1 (1/3)",
-    "location": "Basel, Grosspeterstrasse 18",
-    "dates": "30.05.2026 - 10.10.2026",
-    "level": "A1",
-    "lessons": "40",
-    "price": "CHF 580.00",
-    "schedule": [
-      "Sa 09:00 - 11:50 (Zeit unregelmässig)"
-    ]
-  },
-  {
-    "title": "Deutsch Anfänger*innen A1 (1/3)",
-    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-anfangerinnen-a1-13--E_1811220_2663_1551",
-    "description": "Deutsch Anfänger*innen A1 (1/3)",
-    "location": "Basel, Grosspeterstrasse 18",
-    "dates": "20.06.2026 - 31.10.2026",
+    "dates": "12.09.2026 - 12.12.2026",
     "level": "A1",
     "lessons": "40",
     "price": "CHF 580.00",
@@ -63,12 +37,78 @@
     ]
   },
   {
-    "title": "Deutsch Anfänger*innen A1 (1/3) - Semi-Intensiv",
-    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-anfangerinnen-a1-13-semi-intensiv--E_1811052_2663_1551",
-    "description": "Deutsch Anfänger*innen A1 (1/3) - Semi-Intensiv",
+    "title": "Deutsch Anfänger*innen",
+    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-anfangerinnen--E_1813612_2663_1551",
+    "description": "Deutsch Anfänger*innen",
     "location": "Basel, Grosspeterstrasse 18",
-    "dates": "16.03.2026 - 27.05.2026",
+    "dates": "19.10.2026 - 18.01.2027",
     "level": "A1",
+    "lessons": "39",
+    "price": "CHF 565.50",
+    "schedule": [
+      "Mo 14:00 - 16:50"
+    ]
+  },
+  {
+    "title": "Deutsch Anfänger*innen",
+    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-anfangerinnen--E_1886118_2663_1551",
+    "description": "Deutsch Anfänger*innen",
+    "location": "Basel, Grosspeterstrasse 18",
+    "dates": "24.10.2026 - 30.01.2027",
+    "level": "A1",
+    "lessons": "40",
+    "price": "CHF 580.00",
+    "schedule": [
+      "Sa 13:15 - 16:05 (Zeit unregelmässig)"
+    ]
+  },
+  {
+    "title": "Deutsch Anfänger*innen",
+    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-anfangerinnen--E_1879564_2663_1551",
+    "description": "Deutsch Anfänger*innen",
+    "location": "Basel, Grosspeterstrasse 18",
+    "dates": "31.10.2026 - 06.02.2027",
+    "level": "A1",
+    "lessons": "40",
+    "price": "CHF 580.00",
+    "schedule": [
+      "Sa 09:00 - 11:50 (Zeit unregelmässig)"
+    ]
+  },
+  {
+    "title": "Deutsch Anfänger*innen",
+    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-anfangerinnen--E_1873101_2663_1551",
+    "description": "Deutsch Anfänger*innen",
+    "location": "Basel, Grosspeterstrasse 18",
+    "dates": "14.11.2026 - 27.02.2027",
+    "level": "A1",
+    "lessons": "40",
+    "price": "CHF 580.00",
+    "schedule": [
+      "Sa 09:00 - 11:50 (Zeit unregelmässig)"
+    ]
+  },
+  {
+    "title": "Deutsch Anfänger*innen - Semi-Intensiv",
+    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-anfangerinnen-semi-intensiv--E_1853576_2663_1551",
+    "description": "Deutsch Anfänger*innen - Semi-Intensiv",
+    "location": "Basel, Grosspeterstrasse 18",
+    "dates": "18.08.2026 - 22.10.2026",
+    "level": null,
+    "lessons": "40",
+    "price": "CHF 540.00",
+    "schedule": [
+      "Di 18:00 - 19:50",
+      "Do 18:00 - 19:50"
+    ]
+  },
+  {
+    "title": "Deutsch Anfänger*innen - Semi-Intensiv",
+    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-anfangerinnen-semi-intensiv--E_1885286_2663_1551",
+    "description": "Deutsch Anfänger*innen - Semi-Intensiv",
+    "location": "Basel, Grosspeterstrasse 18",
+    "dates": "14.09.2026 - 18.11.2026",
+    "level": null,
     "lessons": "40",
     "price": "CHF 540.00",
     "schedule": [
@@ -77,54 +117,12 @@
     ]
   },
   {
-    "title": "Deutsch Anfänger*innen A1 (1/3) - Semi-Intensiv",
-    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-anfangerinnen-a1-13-semi-intensiv--E_1811053_2663_1551",
-    "description": "Deutsch Anfänger*innen A1 (1/3) - Semi-Intensiv",
+    "title": "Deutsch Anfänger*innen - Semi-Intensiv",
+    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-anfangerinnen-semi-intensiv--E_1811051_2663_1551",
+    "description": "Deutsch Anfänger*innen - Semi-Intensiv",
     "location": "Basel, Grosspeterstrasse 18",
-    "dates": "19.05.2026 - 18.08.2026",
-    "level": "A1",
-    "lessons": "40",
-    "price": "CHF 540.00",
-    "schedule": [
-      "Di 18:00 - 19:50",
-      "Do 18:00 - 19:50"
-    ]
-  },
-  {
-    "title": "Deutsch Anfänger*innen A1 (1/3) - Semi-Intensiv",
-    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-anfangerinnen-a1-13-semi-intensiv--E_1811057_2663_1551",
-    "description": "Deutsch Anfänger*innen A1 (1/3) - Semi-Intensiv",
-    "location": "Basel, Grosspeterstrasse 18",
-    "dates": "16.06.2026 - 01.10.2026",
-    "level": "A1",
-    "lessons": "40",
-    "price": "CHF 540.00",
-    "schedule": [
-      "Di 18:00 - 19:50",
-      "Do 18:00 - 19:50"
-    ]
-  },
-  {
-    "title": "Deutsch Anfänger*innen A1 (1/3) - Semi-Intensiv",
-    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-anfangerinnen-a1-13-semi-intensiv--E_1853576_2663_1551",
-    "description": "Deutsch Anfänger*innen A1 (1/3) - Semi-Intensiv",
-    "location": "Basel, Grosspeterstrasse 18",
-    "dates": "30.06.2026 - 03.09.2026",
-    "level": "A1",
-    "lessons": "40",
-    "price": "CHF 540.00",
-    "schedule": [
-      "Di 18:00 - 19:50",
-      "Do 18:00 - 19:50"
-    ]
-  },
-  {
-    "title": "Deutsch Anfänger*innen A1 (1/3) - Semi-Intensiv",
-    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-anfangerinnen-a1-13-semi-intensiv--E_1811051_2663_1551",
-    "description": "Deutsch Anfänger*innen A1 (1/3) - Semi-Intensiv",
-    "location": "Basel, Grosspeterstrasse 18",
-    "dates": "30.06.2026 - 03.09.2026",
-    "level": "A1",
+    "dates": "22.09.2026 - 26.11.2026",
+    "level": null,
     "lessons": "40",
     "price": "CHF 540.00",
     "schedule": [
@@ -133,9 +131,64 @@
     ]
   },
   {
-    "title": "Deutsch Niveau A1 (3/3)",
-    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-a1-33--E_1842759_2663_1551",
-    "description": "Deutsch Niveau A1 (3/3)",
+    "title": "Deutsch Anfänger*innen - Semi-Intensiv",
+    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-anfangerinnen-semi-intensiv--E_1870133_2663_1551",
+    "description": "Deutsch Anfänger*innen - Semi-Intensiv",
+    "location": "Basel, Grosspeterstrasse 18",
+    "dates": "29.09.2026 - 03.12.2026",
+    "level": null,
+    "lessons": "40",
+    "price": "CHF 540.00",
+    "schedule": [
+      "Di 18:00 - 19:50",
+      "Do 18:00 - 19:50"
+    ]
+  },
+  {
+    "title": "Deutsch Anfänger*innen - Semi-Intensiv",
+    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-anfangerinnen-semi-intensiv--E_1870135_2663_1551",
+    "description": "Deutsch Anfänger*innen - Semi-Intensiv",
+    "location": "Basel, Grosspeterstrasse 18",
+    "dates": "19.10.2026 - 23.12.2026",
+    "level": null,
+    "lessons": "40",
+    "price": "CHF 540.00",
+    "schedule": [
+      "Mo 18:00 - 19:50",
+      "Mi 18:00 - 19:50"
+    ]
+  },
+  {
+    "title": "Deutsch Anfänger*innen - Semi-Intensiv",
+    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-anfangerinnen-semi-intensiv--E_1870143_2663_1551",
+    "description": "Deutsch Anfänger*innen - Semi-Intensiv",
+    "location": "Basel, Grosspeterstrasse 18",
+    "dates": "17.11.2026 - 02.02.2027",
+    "level": null,
+    "lessons": "40",
+    "price": "CHF 540.00",
+    "schedule": [
+      "Di 18:00 - 19:50",
+      "Do 18:00 - 19:50"
+    ]
+  },
+  {
+    "title": "Deutsch besser lesen und schreiben - Niveau A2",
+    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-besser-lesen-und-schreiben-niveau-a2--E_1816985_2663_1551",
+    "description": "Deutsch besser lesen und schreiben - Niveau A2",
+    "location": "Basel, Grosspeterstrasse 18",
+    "dates": "28.10.2026 - 20.01.2027",
+    "level": "A2",
+    "lessons": "24",
+    "price": "CHF 500.00",
+    "schedule": [
+      "Mi 18:00 - 19:50"
+    ]
+  },
+  {
+    "title": "Deutsch Niveau A1",
+    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-a1--E_1842759_2663_1551",
+    "description": "Deutsch Niveau A1",
     "location": "Basel, Grosspeterstrasse 18",
     "dates": "09.05.2026 - 19.09.2026",
     "level": "A1",
@@ -146,35 +199,9 @@
     ]
   },
   {
-    "title": "Deutsch Niveau A1 (2/3)",
-    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-a1-23--E_1845579_2663_1551",
-    "description": "Deutsch Niveau A1 (2/3)",
-    "location": "Basel, Grosspeterstrasse 18",
-    "dates": "09.05.2026 - 19.09.2026",
-    "level": "A1",
-    "lessons": "40",
-    "price": "CHF 580.00",
-    "schedule": [
-      "Sa 09:00 - 11:50 (Zeit unregelmässig)"
-    ]
-  },
-  {
-    "title": "Deutsch Niveau A1 (3/3)",
-    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-a1-33--E_1861259_2663_1551",
-    "description": "Deutsch Niveau A1 (3/3)",
-    "location": "Basel, Grosspeterstrasse 18",
-    "dates": "09.05.2026 - 26.09.2026",
-    "level": "A1",
-    "lessons": "40",
-    "price": "CHF 580.00",
-    "schedule": [
-      "Sa 13:00 - 15:50 (Zeit unregelmässig)"
-    ]
-  },
-  {
-    "title": "Deutsch Niveau A1 (2/3)",
-    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-a1-23--E_1869254_2663_1551",
-    "description": "Deutsch Niveau A1 (2/3)",
+    "title": "Deutsch Niveau A1",
+    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-a1--E_1869254_2663_1551",
+    "description": "Deutsch Niveau A1",
     "location": "Basel, Grosspeterstrasse 18",
     "dates": "15.08.2026 - 09.01.2027",
     "level": "A1",
@@ -185,104 +212,92 @@
     ]
   },
   {
-    "title": "Deutsch Niveau A1 (3/3) - Semi-Intensiv",
-    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-a1-33-semi-intensiv--E_1842938_2663_1551",
-    "description": "Deutsch Niveau A1 (3/3) - Semi-Intensiv",
+    "title": "Deutsch Niveau A1",
+    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-a1--E_1887232_2663_1551",
+    "description": "Deutsch Niveau A1",
     "location": "Basel, Grosspeterstrasse 18",
-    "dates": "04.03.2026 - 13.05.2026",
+    "dates": "16.01.2027 - 17.04.2027",
     "level": "A1",
     "lessons": "40",
-    "price": "CHF 540.00",
-    "schedule": [
-      "Mo 18:00 - 19:50",
-      "Mi 18:00 - 19:50"
-    ]
-  },
-  {
-    "title": "Deutsch Niveau A1 (2/3) - Semi-Intensiv",
-    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-a1-23-semi-intensiv--E_1854498_2663_1551",
-    "description": "Deutsch Niveau A1 (2/3) - Semi-Intensiv",
-    "location": "Basel, Grosspeterstrasse 18",
-    "dates": "30.03.2026 - 10.06.2026",
-    "level": "A1",
-    "lessons": "40",
-    "price": "CHF 540.00",
-    "schedule": [
-      "Mo 18:00 - 19:50",
-      "Mi 18:00 - 19:50"
-    ]
-  },
-  {
-    "title": "Deutsch Niveau A1 (2/3) - Semi-Intensiv",
-    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-a1-23-semi-intensiv--E_1869258_2663_1551",
-    "description": "Deutsch Niveau A1 (2/3) - Semi-Intensiv",
-    "location": "Basel, Grosspeterstrasse 18",
-    "dates": "01.06.2026 - 05.08.2026",
-    "level": "A1",
-    "lessons": "40",
-    "price": "CHF 540.00",
-    "schedule": [
-      "Mo 18:00 - 19:50",
-      "Mi 18:00 - 19:50"
-    ]
-  },
-  {
-    "title": "Deutsch Niveau A1 (3/3) - Semi-Intensiv",
-    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-a1-33-semi-intensiv--E_1856309_2663_1551",
-    "description": "Deutsch Niveau A1 (3/3) - Semi-Intensiv",
-    "location": "Basel, Grosspeterstrasse 18",
-    "dates": "15.06.2026 - 19.08.2026",
-    "level": "A1",
-    "lessons": "40",
-    "price": "CHF 540.00",
-    "schedule": [
-      "Mo 18:00 - 19:50",
-      "Mi 18:00 - 19:50"
-    ]
-  },
-  {
-    "title": "Deutsch Niveau A2 (1/3)",
-    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-a2-13--E_1813364_2663_1551",
-    "description": "Deutsch Niveau A2 (1/3)",
-    "location": "Basel, Grosspeterstrasse 18",
-    "dates": "21.03.2026 - 15.08.2026",
-    "level": "A2",
-    "lessons": "40",
-    "price": "CHF 580.00",
+    "price": "CHF 588.00",
     "schedule": [
       "Sa 09:00 - 11:50 (Zeit unregelmässig)"
     ]
   },
   {
-    "title": "Deutsch Niveau A2 (3/3)",
-    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-a2-33--E_1854891_2663_1551",
-    "description": "Deutsch Niveau A2 (3/3)",
+    "title": "Deutsch Niveau A1 - Semi-Intensiv",
+    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-a1-semi-intensiv--E_1869258_2663_1551",
+    "description": "Deutsch Niveau A1 - Semi-Intensiv",
     "location": "Basel, Grosspeterstrasse 18",
-    "dates": "28.03.2026 - 15.08.2026",
-    "level": "A2",
-    "lessons": "39",
-    "price": "CHF 565.50",
-    "schedule": [
-      "Sa 09:00 - 11:50"
-    ]
-  },
-  {
-    "title": "Deutsch Niveau A2 (1/3)",
-    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-a2-13--E_1813367_2663_1551",
-    "description": "Deutsch Niveau A2 (1/3)",
-    "location": "Basel, Grosspeterstrasse 18",
-    "dates": "30.05.2026 - 10.10.2026",
-    "level": "A2",
+    "dates": "02.09.2026 - 09.11.2026",
+    "level": "A1",
     "lessons": "40",
-    "price": "CHF 580.00",
+    "price": "CHF 540.00",
     "schedule": [
-      "Sa 13:00 - 15:50 (Zeit unregelmässig)"
+      "Mo 18:00 - 19:50",
+      "Mi 18:00 - 19:50"
     ]
   },
   {
-    "title": "Deutsch Niveau A2 (2/3)",
-    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-a2-23--E_1869244_2663_1551",
-    "description": "Deutsch Niveau A2 (2/3)",
+    "title": "Deutsch Niveau A1 - Semi-Intensiv",
+    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-a1-semi-intensiv--E_1882360_2663_1551",
+    "description": "Deutsch Niveau A1 - Semi-Intensiv",
+    "location": "Basel, Grosspeterstrasse 18",
+    "dates": "24.09.2026 - 01.12.2026",
+    "level": "A1",
+    "lessons": "40",
+    "price": "CHF 540.00",
+    "schedule": [
+      "Di 18:00 - 19:50",
+      "Do 18:00 - 19:50"
+    ]
+  },
+  {
+    "title": "Deutsch Niveau A1 - Semi-Intensiv",
+    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-a1-semi-intensiv--E_1886898_2663_1551",
+    "description": "Deutsch Niveau A1 - Semi-Intensiv",
+    "location": "Basel, Grosspeterstrasse 18",
+    "dates": "27.10.2026 - 12.01.2027",
+    "level": "A1",
+    "lessons": "40",
+    "price": "CHF 540.00",
+    "schedule": [
+      "Di 18:00 - 19:50",
+      "Do 18:00 - 19:50"
+    ]
+  },
+  {
+    "title": "Deutsch Niveau A1 - Semi-Intensiv",
+    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-a1-semi-intensiv--E_1885344_2663_1551",
+    "description": "Deutsch Niveau A1 - Semi-Intensiv",
+    "location": "Basel, Grosspeterstrasse 18",
+    "dates": "11.11.2026 - 25.01.2027",
+    "level": "A1",
+    "lessons": "40",
+    "price": "CHF 540.00",
+    "schedule": [
+      "Mo 18:00 - 19:50",
+      "Mi 18:00 - 19:50"
+    ]
+  },
+  {
+    "title": "Deutsch Niveau A1 - Semi-Intensiv",
+    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-a1-semi-intensiv--E_1883639_2663_1551",
+    "description": "Deutsch Niveau A1 - Semi-Intensiv",
+    "location": "Basel, Grosspeterstrasse 18",
+    "dates": "08.12.2026 - 25.02.2027",
+    "level": "A1",
+    "lessons": "40",
+    "price": "CHF 540.00",
+    "schedule": [
+      "Di 18:00 - 19:50",
+      "Do 18:00 - 19:50"
+    ]
+  },
+  {
+    "title": "Deutsch Niveau A2",
+    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-a2--E_1869244_2663_1551",
+    "description": "Deutsch Niveau A2",
     "location": "Basel, Grosspeterstrasse 18",
     "dates": "22.08.2026 - 21.11.2026",
     "level": "A2",
@@ -293,25 +308,37 @@
     ]
   },
   {
-    "title": "Deutsch Niveau A2 (3/3) - Semi-Intensiv",
-    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-a2-33-semi-intensiv--E_1846153_2663_1551",
-    "description": "Deutsch Niveau A2 (3/3) - Semi-Intensiv",
+    "title": "Deutsch Niveau A2",
+    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-a2--E_1871503_2663_1551",
+    "description": "Deutsch Niveau A2",
     "location": "Basel, Grosspeterstrasse 18",
-    "dates": "27.04.2026 - 01.07.2026",
+    "dates": "26.09.2026 - 16.01.2027",
     "level": "A2",
     "lessons": "40",
-    "price": "CHF 540.00",
+    "price": "CHF 580.00",
     "schedule": [
-      "Mo 18:00 - 19:50 (Zeit unregelmässig)",
-      "Mi 18:00 - 19:50 (Zeit unregelmässig)"
+      "Sa 09:00 - 11:50 (Zeit unregelmässig)"
     ]
   },
   {
-    "title": "Deutsch Niveau A2 (1/3) - Semi-Intensiv",
-    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-a2-13-semi-intensiv--E_1854876_2663_1551",
-    "description": "Deutsch Niveau A2 (1/3) - Semi-Intensiv",
+    "title": "Deutsch Niveau A2",
+    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-a2--E_1877483_2663_1551",
+    "description": "Deutsch Niveau A2",
     "location": "Basel, Grosspeterstrasse 18",
-    "dates": "18.05.2026 - 27.07.2026",
+    "dates": "28.11.2026 - 06.03.2027",
+    "level": "A2",
+    "lessons": "40",
+    "price": "CHF 580.00",
+    "schedule": [
+      "Sa 09:00 - 11:50 (Zeit unregelmässig)"
+    ]
+  },
+  {
+    "title": "Deutsch Niveau A2 - Semi-Intensiv",
+    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-a2-semi-intensiv--E_1879222_2663_1551",
+    "description": "Deutsch Niveau A2 - Semi-Intensiv",
+    "location": "Basel, Grosspeterstrasse 18",
+    "dates": "14.09.2026 - 18.11.2026",
     "level": "A2",
     "lessons": "40",
     "price": "CHF 540.00",
@@ -321,25 +348,11 @@
     ]
   },
   {
-    "title": "Deutsch Niveau A2 (1/3) - Semi-Intensiv",
-    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-a2-13-semi-intensiv--E_1813344_2663_1551",
-    "description": "Deutsch Niveau A2 (1/3) - Semi-Intensiv",
+    "title": "Deutsch Niveau A2 - Semi-Intensiv",
+    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-a2-semi-intensiv--E_1813342_2663_1551",
+    "description": "Deutsch Niveau A2 - Semi-Intensiv",
     "location": "Basel, Grosspeterstrasse 18",
-    "dates": "01.06.2026 - 16.09.2026",
-    "level": "A2",
-    "lessons": "40",
-    "price": "CHF 540.00",
-    "schedule": [
-      "Mo 18:00 - 19:50",
-      "Mi 18:00 - 19:50"
-    ]
-  },
-  {
-    "title": "Deutsch Niveau A2 (1/3) - Semi-Intensiv",
-    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-a2-13-semi-intensiv--E_1813342_2663_1551",
-    "description": "Deutsch Niveau A2 (1/3) - Semi-Intensiv",
-    "location": "Basel, Grosspeterstrasse 18",
-    "dates": "16.06.2026 - 20.08.2026",
+    "dates": "15.09.2026 - 19.11.2026",
     "level": "A2",
     "lessons": "40",
     "price": "CHF 540.00",
@@ -349,11 +362,25 @@
     ]
   },
   {
-    "title": "Deutsch Niveau A2 (2/3) - Semi-Intensiv",
-    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-a2-23-semi-intensiv--E_1841499_2663_1551",
-    "description": "Deutsch Niveau A2 (2/3) - Semi-Intensiv",
+    "title": "Deutsch Niveau A2 - Semi-Intensiv",
+    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-a2-semi-intensiv--E_1876727_2663_1551",
+    "description": "Deutsch Niveau A2 - Semi-Intensiv",
     "location": "Basel, Grosspeterstrasse 18",
-    "dates": "23.06.2026 - 27.08.2026",
+    "dates": "21.09.2026 - 25.11.2026",
+    "level": "A2",
+    "lessons": "40",
+    "price": "CHF 540.00",
+    "schedule": [
+      "Mo 18:00 - 19:50",
+      "Mi 18:00 - 19:50"
+    ]
+  },
+  {
+    "title": "Deutsch Niveau A2 - Semi-Intensiv",
+    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-a2-semi-intensiv--E_1883775_2663_1551",
+    "description": "Deutsch Niveau A2 - Semi-Intensiv",
+    "location": "Basel, Grosspeterstrasse 18",
+    "dates": "20.10.2026 - 05.01.2027",
     "level": "A2",
     "lessons": "40",
     "price": "CHF 540.00",
@@ -363,11 +390,11 @@
     ]
   },
   {
-    "title": "Deutsch Niveau A2 (1/3) - Semi-Intensiv",
-    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-a2-13-semi-intensiv--E_1813340_2663_1551",
-    "description": "Deutsch Niveau A2 (1/3) - Semi-Intensiv",
+    "title": "Deutsch Niveau A2 - Semi-Intensiv",
+    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-a2-semi-intensiv--E_1813340_2663_1551",
+    "description": "Deutsch Niveau A2 - Semi-Intensiv",
     "location": "Basel, Grosspeterstrasse 18",
-    "dates": "08.09.2026 - 12.11.2026",
+    "dates": "22.10.2026 - 07.01.2027",
     "level": "A2",
     "lessons": "40",
     "price": "CHF 540.00",
@@ -377,11 +404,53 @@
     ]
   },
   {
-    "title": "Deutsch Niveau B1 (3/3)",
-    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-b1-33--E_1853245_2663_1551",
-    "description": "Deutsch Niveau B1 (3/3)",
+    "title": "Deutsch Niveau A2 - Semi-Intensiv",
+    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-a2-semi-intensiv--E_1872798_2663_1551",
+    "description": "Deutsch Niveau A2 - Semi-Intensiv",
     "location": "Basel, Grosspeterstrasse 18",
-    "dates": "09.05.2026 - 19.09.2026",
+    "dates": "27.10.2026 - 12.01.2027",
+    "level": "A2",
+    "lessons": "40",
+    "price": "CHF 540.00",
+    "schedule": [
+      "Di 18:00 - 19:50",
+      "Do 18:00 - 19:50"
+    ]
+  },
+  {
+    "title": "Deutsch Niveau A2 - Semi-Intensiv",
+    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-a2-semi-intensiv--E_1813344_2663_1551",
+    "description": "Deutsch Niveau A2 - Semi-Intensiv",
+    "location": "Basel, Grosspeterstrasse 18",
+    "dates": "16.11.2026 - 27.01.2027",
+    "level": "A2",
+    "lessons": "40",
+    "price": "CHF 540.00",
+    "schedule": [
+      "Mo 18:00 - 19:50",
+      "Mi 18:00 - 19:50"
+    ]
+  },
+  {
+    "title": "Deutsch Niveau A2 - Semi-Intensiv",
+    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-a2-semi-intensiv--E_1877435_2663_1551",
+    "description": "Deutsch Niveau A2 - Semi-Intensiv",
+    "location": "Basel, Grosspeterstrasse 18",
+    "dates": "30.11.2026 - 10.02.2027",
+    "level": "A2",
+    "lessons": "40",
+    "price": "CHF 540.00",
+    "schedule": [
+      "Mo 18:00 - 19:50",
+      "Mi 18:00 - 19:50"
+    ]
+  },
+  {
+    "title": "Deutsch Niveau B1",
+    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-b1--E_1853245_2663_1551",
+    "description": "Deutsch Niveau B1",
+    "location": "Basel, Grosspeterstrasse 18",
+    "dates": "09.05.2026 - 26.09.2026",
     "level": "B1",
     "lessons": "40",
     "price": "CHF 580.00",
@@ -390,11 +459,11 @@
     ]
   },
   {
-    "title": "Deutsch Niveau B1 (1/3)",
-    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-b1-13--E_1813371_2663_1551",
-    "description": "Deutsch Niveau B1 (1/3)",
+    "title": "Deutsch Niveau B1",
+    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-b1--E_1870495_2663_1551",
+    "description": "Deutsch Niveau B1",
     "location": "Basel, Grosspeterstrasse 18",
-    "dates": "20.06.2026 - 31.10.2026",
+    "dates": "29.08.2026 - 28.11.2026",
     "level": "B1",
     "lessons": "40",
     "price": "CHF 580.00",
@@ -403,11 +472,11 @@
     ]
   },
   {
-    "title": "Deutsch Niveau B1 (1/4)",
-    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-b1-14--E_1864827_2663_1551",
-    "description": "Deutsch Niveau B1 (1/4)",
+    "title": "Deutsch Niveau B1",
+    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-b1--E_1864827_2663_1551",
+    "description": "Deutsch Niveau B1",
     "location": "Basel, Grosspeterstrasse 18",
-    "dates": "21.05.2026 - 01.10.2026",
+    "dates": "24.09.2026 - 18.02.2027",
     "level": "B1",
     "lessons": "40",
     "price": "CHF 580.00",
@@ -416,16 +485,73 @@
     ]
   },
   {
-    "title": "Deutsch Niveau B1 - Grammatik-Repetition",
-    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-b1-grammatik-repetition--E_1806995_2663_1551",
-    "description": "Deutsch Niveau B1 - Grammatik-Repetition",
+    "title": "Deutsch Niveau B1 (_/3)  - Semi-Intensiv",
+    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-b1-3-semi-intensiv--E_1872812_2663_1551",
+    "description": "Deutsch Niveau B1 (_/3)  - Semi-Intensiv",
     "location": "Basel, Grosspeterstrasse 18",
-    "dates": "03.06.2026 - 07.10.2026",
+    "dates": "27.07.2026 - 26.10.2026",
     "level": "B1",
-    "lessons": "19",
-    "price": "CHF 448.50",
+    "lessons": "40",
+    "price": "CHF 540.00",
     "schedule": [
-      "Mi 20:00 - 21:15"
+      "Mo 18:00 - 19:50",
+      "Mi 18:00 - 19:50"
+    ]
+  },
+  {
+    "title": "Deutsch Niveau B1 (_/3)  - Semi-Intensiv",
+    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-b1-3-semi-intensiv--E_1872368_2663_1551",
+    "description": "Deutsch Niveau B1 (_/3)  - Semi-Intensiv",
+    "location": "Basel, Grosspeterstrasse 18",
+    "dates": "17.08.2026 - 21.10.2026",
+    "level": "B1",
+    "lessons": "40",
+    "price": "CHF 540.00",
+    "schedule": [
+      "Mo 18:00 - 19:50",
+      "Mi 18:00 - 19:50"
+    ]
+  },
+  {
+    "title": "Deutsch Niveau B1 (_/3)  - Semi-Intensiv",
+    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-b1-3-semi-intensiv--E_1880034_2663_1551",
+    "description": "Deutsch Niveau B1 (_/3)  - Semi-Intensiv",
+    "location": "Basel, Grosspeterstrasse 18",
+    "dates": "21.09.2026 - 25.11.2026",
+    "level": "B1",
+    "lessons": "40",
+    "price": "CHF 540.00",
+    "schedule": [
+      "Mo 18:00 - 19:50",
+      "Mi 18:00 - 19:50"
+    ]
+  },
+  {
+    "title": "Deutsch Niveau B1 (_/3)  - Semi-Intensiv",
+    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-b1-3-semi-intensiv--E_1884755_2663_1551",
+    "description": "Deutsch Niveau B1 (_/3)  - Semi-Intensiv",
+    "location": "Basel, Grosspeterstrasse 18",
+    "dates": "26.10.2026 - 06.01.2027",
+    "level": "B1",
+    "lessons": "40",
+    "price": "CHF 540.00",
+    "schedule": [
+      "Mo 18:00 - 19:50",
+      "Mi 18:00 - 19:50"
+    ]
+  },
+  {
+    "title": "Deutsch Niveau B1 (_/3)  - Semi-Intensiv",
+    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-b1-3-semi-intensiv--E_1880199_2663_1551",
+    "description": "Deutsch Niveau B1 (_/3)  - Semi-Intensiv",
+    "location": "Basel, Grosspeterstrasse 18",
+    "dates": "28.10.2026 - 11.01.2027",
+    "level": "B1",
+    "lessons": "40",
+    "price": "CHF 540.00",
+    "schedule": [
+      "Mo 18:00 - 19:50",
+      "Mi 18:00 - 19:50"
     ]
   },
   {
@@ -433,7 +559,7 @@
     "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-b1-grammatik-repetition--E_1809007_2663_1551",
     "description": "Deutsch Niveau B1 - Grammatik-Repetition",
     "location": "Basel, Grosspeterstrasse 18",
-    "dates": "27.08.2026 - 19.11.2026",
+    "dates": "24.09.2026 - 17.12.2026",
     "level": "B1",
     "lessons": "19",
     "price": "CHF 448.50",
@@ -442,59 +568,16 @@
     ]
   },
   {
-    "title": "Deutsch Niveau B1 (3/3) - Semi-Intensiv",
-    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-b1-33-semi-intensiv--E_1831778_2663_1551",
-    "description": "Deutsch Niveau B1 (3/3) - Semi-Intensiv",
+    "title": "Deutsch Niveau B1 - Grammatik-Repetition",
+    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-b1-grammatik-repetition--E_1806995_2663_1551",
+    "description": "Deutsch Niveau B1 - Grammatik-Repetition",
     "location": "Basel, Grosspeterstrasse 18",
-    "dates": "05.03.2026 - 12.05.2026",
+    "dates": "21.10.2026 - 20.01.2027",
     "level": "B1",
-    "lessons": "40",
-    "price": "CHF 540.00",
+    "lessons": "19",
+    "price": "CHF 448.50",
     "schedule": [
-      "Di 18:00 - 19:50",
-      "Do 18:00 - 19:50"
-    ]
-  },
-  {
-    "title": "Deutsch Niveau B1 (3/3) - Semi-Intensiv",
-    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-b1-33-semi-intensiv--E_1846743_2663_1551",
-    "description": "Deutsch Niveau B1 (3/3) - Semi-Intensiv",
-    "location": "Basel, Grosspeterstrasse 18",
-    "dates": "25.03.2026 - 08.06.2026",
-    "level": "B1",
-    "lessons": "40",
-    "price": "CHF 540.00",
-    "schedule": [
-      "Mo 18:00 - 19:50",
-      "Mi 18:00 - 19:50"
-    ]
-  },
-  {
-    "title": "Deutsch Niveau B1 (1/4) - Semi-Intensiv",
-    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-b1-14-semi-intensiv--E_1843078_2663_1551",
-    "description": "Deutsch Niveau B1 (1/4) - Semi-Intensiv",
-    "location": "Basel, Grosspeterstrasse 18",
-    "dates": "18.02.2026 - 11.05.2026",
-    "level": "B1",
-    "lessons": "40",
-    "price": "CHF 540.00",
-    "schedule": [
-      "Mo 18:00 - 19:50",
-      "Mi 18:00 - 19:50"
-    ]
-  },
-  {
-    "title": "Deutsch Niveau B1 (2/4) - Semi-Intensiv",
-    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-b1-24-semi-intensiv--E_1854895_2663_1551",
-    "description": "Deutsch Niveau B1 (2/4) - Semi-Intensiv",
-    "location": "Basel, Grosspeterstrasse 18",
-    "dates": "13.05.2026 - 22.07.2026",
-    "level": "B1",
-    "lessons": "40",
-    "price": "CHF 540.00",
-    "schedule": [
-      "Mo 18:00 - 19:50",
-      "Mi 18:00 - 19:50"
+      "Mi 20:00 - 21:15"
     ]
   },
   {
@@ -502,7 +585,7 @@
     "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-b2-grammatik-repetition--E_1809005_2663_1551",
     "description": "Deutsch Niveau B2 - Grammatik-Repetition",
     "location": "Basel, Grosspeterstrasse 18",
-    "dates": "12.05.2026 - 15.09.2026",
+    "dates": "03.11.2026 - 02.02.2027",
     "level": "B2",
     "lessons": "19",
     "price": "CHF 448.50",
@@ -511,11 +594,11 @@
     ]
   },
   {
-    "title": "Deutsch Niveau B2 (1/4)- Semi-Intensiv",
-    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-b2-14-semi-intensiv--E_1866167_2663_1551",
-    "description": "Deutsch Niveau B2 (1/4)- Semi-Intensiv",
+    "title": "Deutsch Niveau B2 - Semi-Intensiv",
+    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-b2-semi-intensiv--E_1877946_2663_1551",
+    "description": "Deutsch Niveau B2 - Semi-Intensiv",
     "location": "Basel, Grosspeterstrasse 18",
-    "dates": "18.08.2026 - 22.10.2026",
+    "dates": "01.09.2026 - 05.11.2026",
     "level": "B2",
     "lessons": "40",
     "price": "CHF 540.00",
@@ -525,12 +608,12 @@
     ]
   },
   {
-    "title": "Deutsch Niveau C1 (1/3) - Semi-Intensiv",
-    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-c1-13-semi-intensiv--E_1866168_2663_1551",
-    "description": "Deutsch Niveau C1 (1/3) - Semi-Intensiv",
+    "title": "Deutsch Niveau C1 - Semi-Intensiv",
+    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-c1-semi-intensiv--E_1878432_2663_1551",
+    "description": "Deutsch Niveau C1 - Semi-Intensiv",
     "location": "Basel, Grosspeterstrasse 18",
-    "dates": "19.05.2026 - 03.09.2026",
-    "level": "C1",
+    "dates": "08.09.2026 - 12.11.2026",
+    "level": "C1, C2",
     "lessons": "40",
     "price": "CHF 540.00",
     "schedule": [
@@ -539,29 +622,30 @@
     ]
   },
   {
-    "title": "Deutsch Niveau C2 (1/3)",
-    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-c2-13--E_1825641_2663_1551",
-    "description": "Deutsch Niveau C2 (1/3)",
+    "title": "Deutsch Niveau C1 - Semi-Intensiv",
+    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-c1-semi-intensiv--E_1879249_2663_1551",
+    "description": "Deutsch Niveau C1 - Semi-Intensiv",
     "location": "Basel, Grosspeterstrasse 18",
-    "dates": "26.08.2026 - 13.01.2027",
-    "level": "C2",
+    "dates": "27.10.2026 - 12.01.2027",
+    "level": "C1, C2",
     "lessons": "40",
-    "price": "CHF 580.00",
+    "price": "CHF 540.00",
     "schedule": [
-      "Mi 18:00 - 19:50"
+      "Di 18:00 - 19:50",
+      "Do 18:00 - 19:50"
     ]
   },
   {
-    "title": "Deutsch besser lesen und schreiben - Niveau A2",
-    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-besser-lesen-und-schreiben-niveau-a2--E_1816985_2663_1551",
-    "description": "Deutsch besser lesen und schreiben - Niveau A2",
+    "title": "Deutsch Niveau C2",
+    "link": "https://www.klubschule.ch/sprachen/deutschkurse/kurs/deutsch-niveau-c2--E_1825641_2663_1551",
+    "description": "Deutsch Niveau C2",
     "location": "Basel, Grosspeterstrasse 18",
-    "dates": "13.05.2026 - 09.09.2026",
-    "level": "A2",
-    "lessons": "24",
-    "price": "CHF 500.00",
+    "dates": "14.09.2026 - 01.02.2027",
+    "level": "C1, C2",
+    "lessons": "40",
+    "price": "CHF 580.00",
     "schedule": [
-      "Mi 18:00 - 19:50"
+      "Mo 18:00 - 19:50"
     ]
   }
 ]
